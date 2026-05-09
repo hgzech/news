@@ -286,7 +286,6 @@
   <div class="tagline">All the mind's news, eventually</div>
 </header>
 
-<nav class="toolbar" id="toolbar"></nav>
 <nav class="toolbar" id="era-toolbar"></nav>
 
 <main class="feed" id="feed"></main>
@@ -301,7 +300,6 @@ let allArticles = [];
 let filteredShuffled = [];
 let renderedCount = 0;
 const PAGE_SIZE = 10;
-let activeCategory = null;
 let activeEra = null;
 
 function parseYear(dateStr) {
@@ -324,40 +322,14 @@ async function loadArticles() {
   const manifest = await fetch('data/manifest.json').then(r => r.json());
   const batches = await Promise.all(manifest.map(f => fetch('data/' + f).then(r => r.json())));
   allArticles = batches.flatMap(b => b.articles.map(a => ({ ...a, source: b.source })));
-  renderToolbar();
   renderEraToolbar();
   applyFiltersAndRender();
-}
-
-function renderToolbar() {
-  const tb = document.getElementById('toolbar');
-  tb.innerHTML = '';
-  const categories = [...new Set(allArticles.flatMap(a => a.cat))].sort();
-
-  const allBtn = document.createElement('button');
-  allBtn.textContent = 'All';
-  allBtn.classList.add('active');
-  allBtn.onclick = () => { activeCategory = null; setActiveCat(allBtn); applyFiltersAndRender(); };
-  tb.appendChild(allBtn);
-
-  categories.forEach(cat => {
-    const btn = document.createElement('button');
-    btn.textContent = cat;
-    btn.onclick = () => { activeCategory = cat; setActiveCat(btn); applyFiltersAndRender(); };
-    tb.appendChild(btn);
-  });
-}
-
-function setActiveCat(activeBtn) {
-  document.querySelectorAll('#toolbar button').forEach(b => b.classList.remove('active'));
-  activeBtn.classList.add('active');
 }
 
 function renderEraToolbar() {
   const tb = document.getElementById('era-toolbar');
   tb.innerHTML = '';
   const eras = [
-    { label: 'All Eras', value: null },
     { label: 'Before 1900', value: 'before-1900' },
     { label: '1900–1950', value: '1900-1950' },
     { label: '1950–2000', value: '1950-2000' },
@@ -367,15 +339,19 @@ function renderEraToolbar() {
   eras.forEach(({ label, value }) => {
     const btn = document.createElement('button');
     btn.textContent = label;
-    if (value === null) btn.classList.add('active');
-    btn.onclick = () => { activeEra = value; setActiveEra(btn); applyFiltersAndRender(); };
+    btn.onclick = () => {
+      if (activeEra === value) {
+        activeEra = null;
+        btn.classList.remove('active');
+      } else {
+        activeEra = value;
+        document.querySelectorAll('#era-toolbar button').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+      }
+      applyFiltersAndRender();
+    };
     tb.appendChild(btn);
   });
-}
-
-function setActiveEra(activeBtn) {
-  document.querySelectorAll('#era-toolbar button').forEach(b => b.classList.remove('active'));
-  activeBtn.classList.add('active');
 }
 
 function applyFiltersAndRender() {
@@ -386,11 +362,7 @@ function applyFiltersAndRender() {
   full.classList.remove('visible');
   feed.classList.remove('hidden');
 
-  const filtered = allArticles.filter(a => {
-    const catMatch = !activeCategory || a.cat.includes(activeCategory);
-    const eraMatch = matchesEra(a, activeEra);
-    return catMatch && eraMatch;
-  });
+  const filtered = allArticles.filter(a => matchesEra(a, activeEra));
 
   filteredShuffled = [...filtered].sort(() => Math.random() - 0.5);
   renderedCount = 0;
