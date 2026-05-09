@@ -1,0 +1,390 @@
+{
+  "source": "Psych Daily — Original Collection",
+  "articles": [
+    {
+      "id": "little-albert",
+      "cat": [
+        "Experiments"
+      ],
+      "date": "1920",
+      "title": "Johns Hopkins Researcher Conditions Fear in 9-Month-Old Infant",
+      "lede": "Watson and Rayner demonstrate that emotional responses can be classically conditioned in humans.",
+      "body": "John B. Watson and his graduate student Rosalie Rayner conducted one of the most infamous experiments in psychology's history at Johns Hopkins University. The subject, known as \"Little Albert,\" was a 9-month-old infant who was exposed to a white rat alongside a sudden loud noise. After repeated pairings, the child began to cry at the sight of the rat alone — and, critically, at other furry objects as well.\n\nThe study was offered as proof that fears are not innate but learned, a cornerstone of Watson's radical behaviorism. Watson declared that given a dozen healthy infants, he could train any one of them to become any type of specialist, regardless of their talents or ancestry.\n\nThe experiment would never pass an ethics board today. Albert was never \"de-conditioned,\" and his identity remained a mystery for decades. Researchers have since debated whether the boy was Douglas Merritte, who died young of hydrocephalus, or Albert Barger, who lived to old age with a documented dislike of animals. The study remains a cautionary tale about the collision of ambition and ethics in psychological research.",
+      "quote": "\"Give me a dozen healthy infants… and I'll guarantee to take any one at random and train him to become any type of specialist I might select.\" — J.B. Watson"
+    },
+    {
+      "id": "wundt-leipzig",
+      "cat": [
+        "Founding"
+      ],
+      "date": "1879",
+      "title": "Leipzig Laboratory Opens: Wundt Declares Psychology a Science",
+      "lede": "Wilhelm Wundt establishes the first formal experimental psychology laboratory at the University of Leipzig.",
+      "body": "In a small room at the University of Leipzig, Wilhelm Wundt did something no one had done before: he gave psychology its own address. By founding the first laboratory dedicated exclusively to psychological research, Wundt drew a line between the ancient philosophical study of the mind and a new discipline grounded in measurement and experiment.\n\nHis method was \"introspection\" — not casual self-reflection, but highly trained, controlled reports of conscious experience in response to precise stimuli. Subjects would describe perceptions of light, sound, or weight under strict experimental conditions. Critics would later argue this approach was too subjective, but the point was structural: Wundt was insisting that mental life could be studied with the same rigor as physics.\n\nThe laboratory attracted students from across Europe and North America, many of whom went on to establish psychology departments in their own countries. G. Stanley Hall, one of Wundt's students, founded the American Psychological Association in 1892. The Leipzig lab didn't just begin experimental psychology — it seeded the discipline worldwide.",
+      "quote": "\"The exact description of consciousness is the sole aim of experimental psychology.\" — W. Wundt"
+    },
+    {
+      "id": "chlorpromazine-thorazine",
+      "cat": [
+        "Clinical"
+      ],
+      "date": "1952",
+      "title": "First Antipsychotic Drug Transforms Psychiatric Treatment",
+      "lede": "Chlorpromazine, marketed as Thorazine, ushers in the psychopharmacological revolution.",
+      "body": "French surgeon Henri Laborit was looking for a better anesthetic when he noticed something unusual about a new antihistamine compound: patients became calm and indifferent to their surroundings without losing consciousness. He urged psychiatrists Jean Delay and Pierre Deniker to test it on psychotic patients. The results were striking — agitated, hallucinating patients became manageable within days.\n\nChlorpromazine, sold as Thorazine in the United States, became the first widely used antipsychotic medication. Its impact on institutional psychiatry was enormous. Within a decade, the population of psychiatric hospitals in the US began a steep, sustained decline. Patients who had been confined for years were discharged into communities.\n\nThe drug worked by blocking dopamine receptors, a mechanism that wasn't understood until later and which helped establish the \"dopamine hypothesis\" of schizophrenia. But chlorpromazine also came with severe side effects — involuntary movements, sedation, metabolic problems — and the deinstitutionalization it enabled often meant discharging patients into communities with inadequate support. The pharmacological revolution solved one problem while revealing others.",
+      "quote": "\"It was as if a veil had been drawn back.\" — J. Delay, on observing chlorpromazine's effects"
+    },
+    {
+      "id": "milgram-obedience",
+      "cat": [
+        "Experiments"
+      ],
+      "date": "1961",
+      "title": "Yale Obedience Study Shocks the World — and Its Subjects",
+      "lede": "Stanley Milgram reveals that ordinary people will administer what they believe are lethal electric shocks when instructed by an authority figure.",
+      "body": "Stanley Milgram, a 27-year-old assistant professor at Yale, designed an experiment to answer a question raised by the Holocaust: could it happen here? Volunteers were told they were participating in a study on learning. They were instructed to deliver electric shocks of increasing voltage to a \"learner\" (actually a confederate) each time he answered incorrectly. The shock generator went up to 450 volts, marked \"XXX — Danger.\"\n\nMilgram expected only a small percentage of subjects to go to the maximum voltage. He polled psychiatrists beforehand, and they predicted about 1 in 1,000 would do so. The actual result: 65 percent of participants delivered the maximum shock. They sweated, trembled, laughed nervously, and protested — but they obeyed.\n\nThe findings provoked a storm of debate. Critics attacked the ethics of deceiving and distressing participants. Supporters argued the study revealed something essential about the human capacity for obedience. Later scholars have questioned the methodology and noted the variety of responses across experimental conditions, but the core finding — that situational pressure can override personal conscience — remains deeply relevant. The study changed how we think about authority, responsibility, and the architecture of moral failure.",
+      "quote": "\"Ordinary people, simply doing their jobs, can become agents in a terrible destructive process.\" — S. Milgram"
+    },
+    {
+      "id": "maslow-hierarchy",
+      "cat": [
+        "Theory"
+      ],
+      "date": "1943",
+      "title": "Maslow Publishes Hierarchy of Needs, Redefines Motivation",
+      "lede": "Abraham Maslow argues that human motivation follows a predictable ladder from survival to self-actualization.",
+      "body": "Abraham Maslow was frustrated with psychology's obsession with pathology. Freudians studied neurosis; behaviorists studied rats. Maslow wanted to study the healthiest, most creative people he could find — and understand what drove them.\n\nIn his 1943 paper \"A Theory of Human Motivation,\" Maslow proposed that human needs form a hierarchy. At the base: physiological needs like food and shelter. Then safety, belonging, esteem — and at the peak, self-actualization, the drive to become everything one is capable of becoming. The idea was that lower needs must be substantially met before higher ones emerge as motivators.\n\nThe pyramid diagram associated with the theory, interestingly, was never drawn by Maslow himself — it was a later textbook invention. And the theory has been criticized empirically: people regularly pursue meaning and connection under conditions of deprivation. But Maslow's framework gave psychology a positive agenda. It influenced management theory, education, and the humanistic psychology movement. More than any specific prediction, its lasting contribution was a shift in attention: from what goes wrong in the mind to what might go right.",
+      "quote": "\"What a man can be, he must be. This need we may call self-actualization.\" — A. Maslow"
+    },
+    {
+      "id": "phineas-gage",
+      "cat": [
+        "Neuroscience"
+      ],
+      "date": "1848",
+      "title": "Iron Rod Through the Skull: The Extraordinary Case of Phineas Gage",
+      "lede": "A railroad foreman survives a catastrophic brain injury, offering the first evidence that specific brain regions govern personality.",
+      "body": "On September 13, 1848, railroad construction foreman Phineas Gage was packing explosive charges into a hole in rock near Cavendish, Vermont, when a premature detonation drove a three-foot, seven-inch iron tamping rod through his left cheek, behind his left eye, and out through the top of his skull. He was thrown onto his back. Within minutes, he was sitting up and speaking.\n\nGage survived, but accounts from his physician, John Martyn Harlow, suggest he was \"no longer Gage.\" The formerly capable and well-liked foreman became, in Harlow's words, fitful, irreverent, and unable to settle on plans. His friends said the balance between his intellectual faculties and his animal propensities had been destroyed.\n\nThe case became foundational evidence that the frontal lobes are involved in personality, planning, and social behavior. Modern neuroscience has confirmed this broadly, though recent scholarship has questioned how dramatically Gage actually changed — some evidence suggests he recovered substantially in later years and held steady employment. The case endures because it posed, for the first time, a deeply unsettling question: if a rod can change who you are, then who are you?",
+      "quote": "\"The equilibrium between his intellectual faculties and animal propensities seems to have been destroyed.\" — J.M. Harlow"
+    },
+    {
+      "id": "freud-dreams",
+      "cat": [
+        "Clinical",
+        "Theory"
+      ],
+      "date": "1900",
+      "title": "Freud Publishes 'The Interpretation of Dreams,' Launches Psychoanalysis",
+      "lede": "Sigmund Freud argues that dreams are the 'royal road to the unconscious,' unveiling a theory that will dominate psychiatry for half a century.",
+      "body": "When \"Die Traumdeutung\" appeared in November 1899 (dated 1900 by the publisher, who preferred a new-century debut), it sold poorly — only 351 copies in the first six years. Freud was disappointed but undeterred. He believed he had discovered something epochal: that dreams are not random noise but disguised fulfillments of repressed wishes, and that interpreting them could unlock the unconscious mind.\n\nThe book introduced key psychoanalytic concepts — the manifest and latent content of dreams, condensation, displacement, and the mechanisms of censorship that the dreaming mind employs. Freud used his own dreams extensively as case material, an act of intellectual self-exposure that was unusual for scientific writing of the era.\n\nThe theory's scientific status has been challenged from nearly every direction. Neuroscience has proposed alternative explanations for dreaming, cognitive psychologists have questioned the concept of repression, and the therapeutic efficacy of dream interpretation remains debated. But Freud's broader impact is hard to overstate. He permanently altered how Western culture thinks about motivation, memory, and the self. The idea that we do not fully know our own minds — that we are strangers to our deepest motives — became, after Freud, almost common sense.",
+      "quote": "\"The interpretation of dreams is the royal road to a knowledge of the unconscious.\" — S. Freud"
+    },
+    {
+      "id": "stanford-prison",
+      "cat": [
+        "Experiments"
+      ],
+      "date": "1971",
+      "title": "Stanford Prison Experiment Descends Into Chaos in Six Days",
+      "lede": "Philip Zimbardo's simulated prison in the basement of Stanford's psychology building is shut down early as 'guards' turn abusive.",
+      "body": "Philip Zimbardo converted the basement of Stanford's Jordan Hall into a mock prison. Twenty-four male college students were randomly assigned to be either guards or prisoners. The two-week study was cancelled after six days because conditions had deteriorated so rapidly.\n\nGuards stripped prisoners, forced them to do push-ups, confined them to closets, and woke them for middle-of-the-night counts. Some prisoners had emotional breakdowns. Zimbardo himself, acting as the prison superintendent, later admitted he became so absorbed in his role that he failed to intervene when he should have.\n\nThe study was presented as evidence that social roles and institutional structures, not individual dispositions, drive behavior. It became one of the most taught experiments in psychology. But in recent years, it has faced serious challenges. Journalists and researchers have uncovered evidence that guards were coached to be tough, that some prisoner breakdowns may have been performative, and that the study lacked proper controls. Zimbardo's dual role as researcher and participant was a fundamental methodological flaw. The experiment may tell us less about the power of situations than about the power of a compelling narrative in psychology itself.",
+      "quote": "\"I was guilty of the sin of omission — the evil of inaction.\" — P. Zimbardo"
+    },
+    {
+      "id": "neisser-cognitive",
+      "cat": [
+        "Theory"
+      ],
+      "date": "1967",
+      "title": "Cognitive Revolution Formalized: Neisser Publishes Landmark Textbook",
+      "lede": "Ulric Neisser's 'Cognitive Psychology' gives a name and a framework to the movement overthrowing behaviorism.",
+      "body": "By the mid-1960s, the intellectual ground had already shifted. Chomsky had dismantled Skinner's account of language. Information theory and computer science offered new metaphors for mental processes. Researchers were already studying attention, memory, and pattern recognition. What was missing was a name and a unified framework. Ulric Neisser provided both.\n\nHis 1967 book \"Cognitive Psychology\" synthesized scattered research programs into a coherent discipline. The mind, Neisser argued, actively constructs experience rather than passively receiving stimuli. Cognition involves transformation, reduction, elaboration, storage, recovery, and use of sensory input — it is not a simple stimulus-response chain.\n\nNeisser later grew uncomfortable with the direction cognitive psychology took, complaining that it had become too focused on artificial laboratory tasks and too disconnected from real-world cognition. His 1976 book \"Cognition and Reality\" urged the field toward ecological validity — studying how people actually think in natural environments. It's an irony worth noting: the father of cognitive psychology spent much of his later career criticizing what his children had built.",
+      "quote": "\"The term 'cognition' refers to all the processes by which sensory input is transformed, reduced, elaborated, stored, recovered, and used.\" — U. Neisser"
+    },
+    {
+      "id": "rosenhan-insane-places",
+      "cat": [
+        "Clinical",
+        "Experiments"
+      ],
+      "date": "1973",
+      "title": "Rosenhan Sends Fake Patients Into Psychiatric Hospitals — None Are Detected",
+      "lede": "Eight sane volunteers are admitted to mental institutions and diagnosed with psychiatric disorders, exposing diagnostic unreliability.",
+      "body": "David Rosenhan and seven associates presented themselves at psychiatric hospitals across the United States, each complaining of hearing voices saying \"empty,\" \"hollow,\" and \"thud.\" All eight were admitted. Seven were diagnosed with schizophrenia; one with manic-depressive psychosis.\n\nOnce inside, the pseudopatients behaved completely normally. They took notes openly, cooperated with staff, and reported that the voices had stopped. None were detected as impostors by hospital staff, though several real patients expressed suspicion. The pseudopatients were hospitalized for an average of 19 days, with one staying for 52 days. All were eventually discharged with diagnoses of \"schizophrenia in remission\" — the label stuck even when the symptoms disappeared.\n\nRosenhan's 1973 paper \"On Being Sane in Insane Places\" landed like a grenade in the psychiatric establishment. It demonstrated that psychiatric diagnosis was unreliable and heavily influenced by context. A follow-up challenge to one hospital — which was told pseudopatients would attempt admission — resulted in staff identifying numerous real patients as fakes. The study contributed to major reforms in diagnostic criteria and helped push the development of the DSM-III. Recent investigations have questioned some details of the study, but its central challenge to diagnostic confidence remains potent.",
+      "quote": "\"It is clear that we cannot distinguish the sane from the insane in psychiatric hospitals.\" — D. Rosenhan"
+    },
+    {
+      "id": "patient-hm",
+      "cat": [
+        "Neuroscience",
+        "Clinical"
+      ],
+      "date": "1957",
+      "title": "Patient H.M. Loses the Ability to Form New Memories After Surgery",
+      "lede": "A radical operation to cure epilepsy reveals the hippocampus as the gateway to memory formation.",
+      "body": "Henry Molaison, known for decades only as \"Patient H.M.,\" had suffered from debilitating epilepsy since childhood. In 1953, neurosurgeon William Beecher Scoville removed the medial temporal lobes on both sides of his brain, including most of the hippocampus. The seizures improved. But something else happened: Molaison could no longer form new long-term memories.\n\nHe could remember his childhood. He could hold a conversation. He could learn new motor skills — his performance on mirror-drawing tasks improved with practice — but he had no memory of having practiced. Every day was, in some sense, his first day. He read the same magazines without recognizing them. He greeted the same researchers as strangers.\n\nThe case, meticulously studied by Brenda Milner and later Suzanne Corkin over more than five decades, transformed the neuroscience of memory. It demonstrated that memory is not a single system: declarative memory (facts and events) depends on the hippocampus, but procedural memory (skills and habits) does not. The dissociation opened the door to the modern understanding of multiple memory systems in the brain. Molaison, who died in 2008, contributed more to memory science than perhaps any other individual — a contribution he himself could never remember making.",
+      "quote": "\"Every day is alone in itself.\" — H.M."
+    },
+    {
+      "id": "william-james-principles",
+      "cat": [
+        "Founding",
+        "Theory"
+      ],
+      "date": "1890",
+      "title": "William James Publishes the Definitive Textbook of the New Psychology",
+      "lede": "The Principles of Psychology arrives after twelve years of writing, establishing the intellectual agenda for American psychology.",
+      "body": "William James took twelve years to write his textbook. He complained about it constantly. \"A loathsome, distended, tumefied, bloated, dropsical mass,\" he called the manuscript. When \"The Principles of Psychology\" finally appeared in 1890, it ran to 1,400 pages across two volumes. It was immediately recognized as a masterpiece.\n\nJames covered perception, habit, attention, memory, reasoning, emotion, and the self — writing with a literary elegance unusual in scientific texts. His chapter on habit argued that repeated actions carve neural pathways, making behavior increasingly automatic. His theory of emotion — that we feel afraid because we run, not the other way around — anticipates modern embodied cognition. His concept of the \"stream of consciousness\" gave both psychology and literature a new way of describing mental life.\n\nJames was suspicious of laboratory psychology and never ran a research program of his own in the Wundtian mold. He viewed the mind as functional — adapted to help organisms navigate their environments — and this perspective became the foundation of functionalism, America's first distinct school of psychology. He later drifted toward philosophy and the study of religious experience, but the Principles remained the field's essential reference for decades.",
+      "quote": "\"The art of being wise is the art of knowing what to overlook.\" — W. James"
+    },
+    {
+      "id": "thorndike-law-effect",
+      "cat": [
+        "Experiments"
+      ],
+      "date": "1898",
+      "title": "Thorndike's Cats Escape Puzzle Boxes, Reveal the Law of Effect",
+      "lede": "Edward Thorndike places cats in wooden crates and discovers the foundational principle of reinforcement learning.",
+      "body": "Edward Thorndike built small wooden crates with doors that could be opened by pressing a lever, pulling a string, or stepping on a pedal. He placed hungry cats inside, put fish outside, and observed. The first time, a cat would thrash, claw, and scramble randomly until it accidentally triggered the release mechanism. On subsequent trials, the random behavior decreased and the successful action came faster.\n\nThorndike called this the \"Law of Effect\": responses followed by satisfying consequences are strengthened; those followed by discomfort are weakened. It seems obvious now, but it was a radical departure from the prevailing view that animals learn through insight or reasoning. Thorndike's cats didn't understand the mechanism — they simply repeated what worked.\n\nThe Law of Effect became the conceptual ancestor of all reinforcement-based learning theories. B.F. Skinner built his entire operant conditioning framework on its foundation. Modern machine learning algorithms — including the reinforcement learning systems behind contemporary AI — operate on essentially the same principle: strengthen behaviors that lead to rewards. Thorndike, watching cats fumble with latches in a basement at Columbia University, had stumbled onto one of the most general principles in the science of behavior.",
+      "quote": "\"Of several responses made to the same situation, those accompanied by satisfaction will be more firmly connected with the situation.\" — E. Thorndike"
+    },
+    {
+      "id": "chomsky-skinner-review",
+      "cat": [
+        "Theory"
+      ],
+      "date": "1959",
+      "title": "Chomsky Demolishes Skinner's Account of Language in Devastating Review",
+      "lede": "A 33-page book review marks a turning point, signaling the decline of behaviorism and the rise of cognitive science.",
+      "body": "In 1957, B.F. Skinner published \"Verbal Behavior,\" extending his operant conditioning framework to explain human language. Two years later, a young linguist at MIT named Noam Chomsky published a review that would become one of the most influential documents in the history of the behavioral sciences.\n\nChomsky's argument was systematic and relentless. He contended that Skinner's concepts — stimulus, response, reinforcement — became meaningless when applied to language because they lost all precision. A child doesn't learn language by being reinforced for correct utterances; children produce sentences they have never heard before. Language, Chomsky argued, requires an innate capacity — a \"language acquisition device\" — that no amount of conditioning can explain.\n\nThe review didn't just critique a book; it undermined the intellectual foundations of behaviorism's claim to explain complex human behavior. It helped catalyze the cognitive revolution by demonstrating that internal mental structures were necessary to account for observable behavior. Skinner never formally replied. The two men represented fundamentally different visions of what it means to be human — one mechanical, one generative — and by the 1970s, Chomsky's vision had largely prevailed in academic psychology.",
+      "quote": "\"The magnitude of the failure of this attempt to account for verbal behavior serves as a kind of measure of the importance of the factors omitted.\" — N. Chomsky"
+    },
+    {
+      "id": "dsm-iii",
+      "cat": [
+        "Clinical"
+      ],
+      "date": "1980",
+      "title": "DSM-III Overhauls Psychiatric Diagnosis, Drops Neurosis",
+      "lede": "The American Psychiatric Association publishes a radically revised diagnostic manual, replacing psychoanalytic categories with criteria-based definitions.",
+      "body": "For decades, psychiatric diagnosis was notoriously unreliable. Two clinicians examining the same patient might arrive at different diagnoses. The DSM-I and DSM-II were heavily influenced by psychoanalytic theory, using vague descriptions rooted in assumptions about unconscious conflict. \"Neurosis\" — Freud's signature category — was everywhere.\n\nRobert Spitzer, a psychiatrist at Columbia, led the task force that produced the DSM-III in 1980. The revision was sweeping. Diagnoses were redefined using explicit, observable criteria — checklists of symptoms with specific thresholds and durations. The category of neurosis was eliminated. A multiaxial system separated clinical disorders from personality disorders and medical conditions.\n\nThe DSM-III transformed psychiatric practice worldwide. It made diagnosis more reliable and enabled large-scale epidemiological research. But critics argued it also medicalized normal human suffering, multiplied diagnostic categories beyond what the evidence supported, and tied diagnosis too closely to pharmaceutical treatment. The \"checklist\" approach privileged surface symptoms over understanding the person. Whatever its limitations, the DSM-III represented a decisive break: after 1980, psychiatry defined itself as a medical specialty grounded in empirical classification, not psychoanalytic theory.",
+      "quote": "\"What we are trying to do is to provide a common language.\" — R. Spitzer"
+    },
+    {
+      "id": "decade-brain",
+      "cat": [
+        "Neuroscience"
+      ],
+      "date": "1990",
+      "title": "The Decade of the Brain Begins, Federal Funding Surges",
+      "lede": "President Bush declares the 1990s the 'Decade of the Brain,' accelerating neuroimaging research and public fascination with brain science.",
+      "body": "On July 17, 1990, President George H.W. Bush signed a proclamation designating the 1990s as the Decade of the Brain. The initiative aimed to enhance public awareness of brain research and increase funding for neuroscience through the National Institutes of Health and related agencies.\n\nThe timing was fortuitous. Functional magnetic resonance imaging (fMRI) became available in the early 1990s, allowing researchers to observe brain activity in living humans without radiation or surgery. Suddenly, scientists could watch the brain think — or at least watch blood flow changes correlated with cognitive tasks. The technology generated enormous excitement and an avalanche of studies mapping brain regions to psychological functions.\n\nThe Decade of the Brain also brought complications. The media latched onto colorful brain scans, often oversimplifying findings into claims like \"scientists find the brain region for love.\" Neuroscience became a cultural authority, sometimes beyond what the data warranted. Critics coined the term \"neuromania\" to describe the tendency to explain all human behavior in terms of brain mechanisms. The decade did succeed in its core goal of elevating neuroscience, but it also revealed a tension that persists: the gap between what brain imaging can actually tell us and what the public — and sometimes researchers — want it to mean.",
+      "quote": "\"The human brain, a three-pound mass of interwoven nerve cells, is the most complex structure in the known universe.\""
+    },
+    {
+      "id": "bartlett-memory",
+      "cat": [
+        "Experiments",
+        "Theory"
+      ],
+      "date": "1932",
+      "title": "Bartlett Shows Memory Is Reconstruction, Not Replay",
+      "lede": "British psychologist Frederic Bartlett reveals that remembering is an active, error-prone process of rebuilding the past.",
+      "body": "While most memory researchers were asking subjects to memorize lists of nonsense syllables, Frederic Bartlett at Cambridge took a different approach. He asked British participants to read an unfamiliar Native American folk tale called \"The War of the Ghosts\" and then retell it over time — after hours, days, weeks, and months.\n\nThe results were revealing. Participants didn't simply forget details; they systematically distorted the story to fit their own cultural expectations. Supernatural elements were dropped or rationalized. The narrative was shortened, smoothed, and made more conventional. People weren't replaying a recording — they were reconstructing the past from fragments, filling gaps with expectations and prior knowledge.\n\nBartlett introduced the concept of \"schema\" — organized mental frameworks that shape how we encode and retrieve information. His 1932 book \"Remembering\" argued that memory is fundamentally constructive, not reproductive. The work was largely ignored during the dominance of behaviorism but was rediscovered during the cognitive revolution and became foundational for research on false memories, eyewitness testimony, and schema theory. Every time a courtroom relies on eyewitness memory as if it were a video recording, Bartlett's findings are being ignored.",
+      "quote": "\"Remembering is not the re-excitation of innumerable fixed traces. It is an imaginative reconstruction.\" — F. Bartlett"
+    },
+    {
+      "id": "kuhn-paradigm-shifts",
+      "cat": [
+        "Theory"
+      ],
+      "date": "1962",
+      "title": "Kuhn Challenges the Foundations of Scientific Progress",
+      "lede": "Thomas Kuhn argues that science does not advance by steady accumulation but through revolutionary paradigm shifts — with deep implications for psychology.",
+      "body": "Thomas Kuhn's \"The Structure of Scientific Revolutions\" was not a psychology book, but few books have shaped how psychologists think about their own discipline more profoundly. Kuhn argued that science does not progress through a smooth accumulation of facts. Instead, it alternates between periods of \"normal science\" — puzzle-solving within an accepted framework — and dramatic \"paradigm shifts\" when the old framework collapses under the weight of anomalies.\n\nFor psychology, the implications were immediate and uncomfortable. Was psychology in a pre-paradigmatic state, lacking the shared framework that defines a mature science? The shift from behaviorism to cognitive psychology looked like exactly the kind of revolution Kuhn described. And if paradigms are partly social constructs, sustained by institutional power and shared assumptions rather than pure evidence, then psychology's frequent theoretical upheavals might reflect not progress but instability.\n\nKuhn introduced the concept of \"incommensurability\" — the idea that competing paradigms cannot be directly compared because they define their terms and problems differently. A Freudian and a behaviorist aren't just disagreeing about answers; they're asking different questions. The book gave psychologists a vocabulary for understanding their own turbulent history and remains essential reading in the philosophy of science.",
+      "quote": "\"Normal science does not aim at novelties of fact or theory and, when successful, finds none.\" — T. Kuhn"
+    },
+    {
+      "id": "triplett-social-facilitation",
+      "cat": [
+        "Experiments"
+      ],
+      "date": "1898",
+      "title": "Triplett Discovers Social Facilitation: Cyclists Ride Faster Together",
+      "lede": "The first published experiment in social psychology finds that people perform better in the presence of others.",
+      "body": "Norman Triplett, a psychologist at Indiana University, noticed something in cycling records: racers competing against others consistently posted faster times than those riding alone against the clock. He suspected that the mere presence of competitors had a stimulating effect on performance.\n\nTo test this under controlled conditions, Triplett asked children to wind fishing reels as quickly as possible — sometimes alone, sometimes alongside another child doing the same task. Children winding in pairs were faster. The 1898 paper is widely considered the first experimental study in social psychology.\n\nThe phenomenon — later called \"social facilitation\" — turned out to be more complex than Triplett initially described. Robert Zajonc clarified in 1965 that the presence of others enhances performance on well-practiced tasks but impairs performance on novel or difficult ones. The mechanism appears to involve heightened physiological arousal. Triplett's simple fishing-reel experiment opened a question that remains central to social psychology: how does the mere knowledge that someone is watching change what we do?",
+      "quote": "\"The bodily presence of another contestant participating simultaneously in the race serves to liberate latent energy not ordinarily available.\" — N. Triplett"
+    },
+    {
+      "id": "witmer-clinical",
+      "cat": [
+        "Founding",
+        "Clinical"
+      ],
+      "date": "1896",
+      "title": "Witmer Opens First Psychological Clinic, Invents Clinical Psychology",
+      "lede": "Lightner Witmer establishes a clinic at the University of Pennsylvania for children with learning difficulties, founding a new profession.",
+      "body": "Lightner Witmer had studied under Wilhelm Wundt in Leipzig, but when he returned to the University of Pennsylvania, he wasn't interested in measuring reaction times. A local schoolteacher brought him a boy who couldn't spell. Witmer examined the child, identified specific deficits, and developed an intervention plan. In doing so, he essentially invented clinical psychology.\n\nIn 1896, Witmer opened the first psychological clinic, dedicated to assessing and treating children with learning and behavioral problems. He coined the term \"clinical psychology\" and argued that the discipline should be devoted to practical application — diagnosing individual problems and designing remedies — not just theoretical research.\n\nWitmer's vision was ahead of its time and somewhat at odds with the academic mainstream, which favored laboratory research. Clinical psychology wouldn't become a major profession until after World War II, when the massive demand for mental health services for returning veterans forced a rapid expansion of training programs. But Witmer had laid the intellectual foundation: the idea that psychological knowledge should be applied to help real people with real problems, one case at a time.",
+      "quote": "\"Clinical psychology is derived from the results of the examination of many human beings, one at a time.\" — L. Witmer"
+    },
+    {
+      "id": "broca-area",
+      "cat": [
+        "Neuroscience"
+      ],
+      "date": "1861",
+      "title": "Broca's Patient Can Only Say One Word: Evidence for Language Localization",
+      "lede": "Paul Broca examines a patient who lost the ability to speak but not to understand, pinpointing language production in the left frontal lobe.",
+      "body": "The patient's name was Louis Victor Leborgne, but he was known as \"Tan\" — because that was the only syllable he could produce. He had been institutionalized at the Bicêtre Hospital in Paris for over twenty years, progressively losing motor function but retaining the ability to understand language. When he died in 1861, the surgeon Paul Broca examined his brain.\n\nBroca found a lesion in the left inferior frontal gyrus. He presented the case to the Anthropological Society of Paris, arguing that this region was specifically responsible for the production of articulate speech. When a second patient with similar symptoms showed damage in the same area, the case strengthened. The region became known as \"Broca's area.\"\n\nThe finding was a landmark in the localization debate — the question of whether different mental functions are carried out by specific brain regions or by the brain as a whole. Broca's work provided strong evidence for localization and established a method — correlating behavioral deficits with postmortem brain lesions — that would dominate neuropsychology for over a century. The case also revealed something poignant: Leborgne could think, understand, and feel, but was imprisoned in a brain that would not let him express any of it.",
+      "quote": "\"We speak with the left hemisphere.\" — P. Broca"
+    },
+    {
+      "id": "miller-magical-seven",
+      "cat": [
+        "Experiments",
+        "Theory"
+      ],
+      "date": "1956",
+      "title": "Miller Identifies the Magic Number: Seven, Plus or Minus Two",
+      "lede": "George Miller argues that human short-term memory has a limited capacity of roughly seven chunks of information.",
+      "body": "George Miller's 1956 paper, \"The Magical Number Seven, Plus or Minus Two,\" is one of the most cited papers in the history of cognitive psychology — and one of the most entertainingly written. Miller presented evidence from multiple domains showing that human information-processing capacity hits a ceiling at around seven items: we can hold about seven digits, seven words, seven tones in immediate memory.\n\nThe key insight was the concept of \"chunking.\" While the number of slots is fixed, the size of each chunk is flexible. A chess master can remember a board position not as 25 individual pieces but as a few familiar patterns. A phone number is easier to remember as three groups than as ten separate digits. Expertise, Miller showed, is partly the ability to build larger and more efficient chunks.\n\nThe paper helped establish information-processing as the dominant metaphor in cognitive psychology. It also had enormous practical impact — on interface design, education, and communication. The reason phone numbers, zip codes, and menu options tend to hover around seven items is not coincidental. Miller's number shaped the designed world. He later downplayed the precision of the finding, joking that seven was \"only a pernicious, Pythagorean coincidence,\" but the underlying insight about capacity limits has proven durable.",
+      "quote": "\"My problem is that I have been persecuted by an integer.\" — G. Miller"
+    },
+    {
+      "id": "festinger-dissonance",
+      "cat": [
+        "Theory"
+      ],
+      "date": "1958",
+      "title": "Festinger's Cognitive Dissonance Theory Explains Why We Rationalize",
+      "lede": "Leon Festinger proposes that people are driven to reduce the discomfort of holding contradictory beliefs — often by changing their minds rather than their behavior.",
+      "body": "Leon Festinger was studying a doomsday cult in the 1950s when he noticed something strange. When the predicted apocalypse didn't arrive, the believers didn't abandon their faith — they doubled down, claiming their prayers had saved the world. Festinger realized that the discomfort of holding contradictory beliefs (we predicted doom / doom didn't come) was so powerful that people would distort reality rather than face it.\n\nHe formalized this as cognitive dissonance theory in 1957. The core idea: when a person holds two conflicting cognitions, or when their behavior contradicts their beliefs, they experience psychological discomfort and are motivated to reduce it. The easiest route is usually not to change behavior but to change beliefs, add justifications, or minimize the contradiction.\n\nThe classic experiment, by Festinger and Carlsmith in 1959, asked participants to do a boring task and then tell the next participant it was fun — for either $1 or $20. Those paid $1 later rated the task as more enjoyable. The reasoning: $20 was sufficient justification for lying, but $1 was not, so the underpaid group had to convince themselves the task was actually interesting. The theory has been applied to everything from buyer's remorse to political polarization to addiction. It remains one of the most robust and unsettling insights in psychology: we are not truth-seekers but consistency-seekers.",
+      "quote": "\"A man with conviction is a hard man to change.\" — L. Festinger"
+    },
+    {
+      "id": "rogers-client-centered",
+      "cat": [
+        "Clinical"
+      ],
+      "date": "1942",
+      "title": "Carl Rogers Introduces Client-Centered Therapy, Upends the Consulting Room",
+      "lede": "Rogers argues that the therapist's role is not to interpret or direct but to provide unconditional positive regard, empathy, and genuineness.",
+      "body": "Psychoanalysts interpreted. Behaviorists conditioned. Carl Rogers listened. In his 1942 book \"Counseling and Psychotherapy,\" Rogers proposed a radical departure from both dominant therapeutic traditions: the client, not the therapist, should direct the course of therapy.\n\nRogers argued that three conditions were necessary and sufficient for therapeutic change: the therapist must be genuine (congruent), must experience unconditional positive regard for the client, and must achieve empathic understanding of the client's internal frame of reference. If these conditions were met, the client's own innate capacity for growth — what Rogers called the \"actualizing tendency\" — would do the rest.\n\nThe approach was controversial. Psychoanalysts thought it was naive. Behaviorists thought it was unscientific. But Rogers did something unusual for a therapist of his era: he recorded sessions and submitted them to empirical study. He was among the first to conduct systematic research on the psychotherapeutic process itself. His influence extended far beyond therapy — into education, management, and conflict resolution. The core insight endures in virtually every modern therapeutic approach: the quality of the relationship between therapist and client is the single best predictor of therapeutic outcome, regardless of the specific technique employed.",
+      "quote": "\"The curious paradox is that when I accept myself just as I am, then I can change.\" — C. Rogers"
+    },
+    {
+      "id": "sperry-split-brain",
+      "cat": [
+        "Neuroscience",
+        "Experiments"
+      ],
+      "date": "1973",
+      "title": "Sperry's Split-Brain Experiments Reveal Two Minds in One Head",
+      "lede": "Roger Sperry and Michael Gazzaniga show that severing the corpus callosum creates patients whose left and right hemispheres operate independently.",
+      "body": "In the 1960s and 1970s, Roger Sperry and his student Michael Gazzaniga studied patients who had undergone a radical treatment for severe epilepsy: surgical severing of the corpus callosum, the thick bundle of nerve fibers connecting the brain's two hemispheres. The procedure reduced seizures. It also produced some of the most astonishing findings in the history of neuroscience.\n\nWhen a picture was shown only to the right visual field (processed by the left hemisphere, which controls language), patients could name it easily. When the same picture was shown only to the left visual field (processed by the right hemisphere), patients said they saw nothing — but their left hand could point to or pick up the correct object. The right hemisphere knew; it just couldn't speak.\n\nEven more striking, when the two hemispheres received conflicting information, patients would confabulate — the left hemisphere would invent a plausible explanation for behavior initiated by the right hemisphere. Gazzaniga called the left hemisphere \"the interpreter,\" a module that constructs narratives to explain actions whose real causes it cannot access. The split-brain studies earned Sperry the Nobel Prize in 1981 and raised philosophical questions that remain unresolved: if severing a connection creates two independent streams of consciousness, what does that tell us about the unity of the self?",
+      "quote": "\"Each hemisphere is indeed a conscious system in its own right.\" — R. Sperry"
+    },
+    {
+      "id": "bandura-bobo-doll",
+      "cat": [
+        "Experiments"
+      ],
+      "date": "1965",
+      "title": "Children Watch Adults Attack a Doll — Then Do the Same",
+      "lede": "Albert Bandura's Bobo doll experiment demonstrates that aggression can be learned through observation alone, without reinforcement.",
+      "body": "Albert Bandura placed children in a room where they watched an adult interact with toys, including a five-foot inflatable clown called a Bobo doll. In the critical condition, the adult attacked the doll — punching it, hitting it with a mallet, throwing it, and shouting at it. In the control condition, the adult played quietly.\n\nWhen the children were later placed in a room with the same toys (after being mildly frustrated by having attractive toys briefly shown and then taken away), those who had watched the aggressive model reproduced the aggressive behaviors with striking fidelity. They punched the doll, used the mallet, and repeated the adult's specific verbal insults — behaviors they had never been reinforced for performing.\n\nThe 1961 study and its follow-ups were a direct challenge to the behaviorist claim that new behaviors require direct reinforcement. Bandura argued for \"observational learning\" or \"modeling\" — the idea that people can acquire complex behaviors simply by watching others. The implications extended well beyond the laboratory. Bandura's social learning theory became central to debates about media violence, parenting practices, and the transmission of cultural norms. The studies also contributed to Bandura's later concept of self-efficacy — the belief in one's own ability to succeed — which became one of the most productive constructs in psychology.",
+      "quote": "\"Learning would be exceedingly laborious if people had to rely solely on the effects of their own actions.\" — A. Bandura"
+    },
+    {
+      "id": "kubler-ross-grief",
+      "cat": [
+        "Clinical",
+        "Theory"
+      ],
+      "date": "1969",
+      "title": "Elisabeth Kübler-Ross Describes Five Stages of Grief",
+      "lede": "A Swiss-American psychiatrist proposes that dying patients move through denial, anger, bargaining, depression, and acceptance.",
+      "body": "Elisabeth Kübler-Ross was appalled by how the medical profession treated dying patients — with avoidance, euphemism, and denial. She began conducting seminars at the University of Chicago in which she interviewed terminally ill patients in front of medical students. The resulting 1969 book, \"On Death and Dying,\" described five emotional stages she observed in patients facing their own mortality: denial, anger, bargaining, depression, and acceptance.\n\nThe model became one of the most widely known ideas in all of psychology, spreading far beyond its original context. It was applied to divorce, job loss, breakups, and virtually any form of personal loss. The five stages entered popular culture so thoroughly that many people assume they are established scientific fact.\n\nThey are not. Kübler-Ross herself later clarified that the stages were not meant to be linear or universal — not everyone goes through all five, and they don't necessarily proceed in order. Empirical research has largely failed to confirm the stage model as a predictive framework. Modern grief researchers favor models that emphasize individual variability, oscillation between loss-oriented and restoration-oriented coping, and the possibility of resilience without prolonged distress. But Kübler-Ross's real contribution may have been cultural rather than scientific: she broke the silence around death and insisted that dying patients deserved to be heard.",
+      "quote": "\"The most beautiful people we have known are those who have known defeat, known suffering, known loss, and have found their way out of the depths.\" — E. Kübler-Ross"
+    },
+    {
+      "id": "binet-intelligence-test",
+      "cat": [
+        "Founding",
+        "Clinical"
+      ],
+      "date": "1905",
+      "title": "Binet and Simon Create the First Intelligence Test",
+      "lede": "The French government commissions a test to identify children needing educational support — launching a century of controversy about measuring the mind.",
+      "body": "In 1904, the French government asked psychologist Alfred Binet to develop a method for identifying children who would struggle in regular school settings. Working with Théodore Simon, Binet designed a series of tasks of increasing difficulty — recognizing objects, defining words, completing sentences, drawing from memory — and calibrated them by age. A child's \"mental age\" was determined by the most advanced tasks they could complete.\n\nThe Binet-Simon scale, published in 1905, was the first practical intelligence test. Binet was careful to note its limitations: intelligence was complex and could not be captured by a single number, the test measured current performance rather than innate capacity, and scores could improve with training. He specifically warned against using the test to label children as permanently limited.\n\nAlmost all of Binet's cautions were promptly ignored. When the test was adapted for American use by Lewis Terman at Stanford (becoming the Stanford-Binet), it was deployed as a tool for sorting people by innate ability. Intelligence testing became entangled with the eugenics movement, immigration restriction, and racial pseudoscience. The IQ test remains one of psychology's most powerful and most contested inventions — a tool that was designed with humility and deployed with overconfidence.",
+      "quote": "\"Some recent philosophers seem to have given their moral support to these deplorable verdicts by asserting that an individual's intelligence is a fixed quantity, one which cannot be augmented. We must protest against this brutal pessimism.\" — A. Binet"
+    },
+    {
+      "id": "asch-conformity",
+      "cat": [
+        "Experiments"
+      ],
+      "date": "1951",
+      "title": "Asch Conformity Experiments: Subjects Deny the Evidence of Their Own Eyes",
+      "lede": "Solomon Asch shows that people will give obviously wrong answers to simple perceptual questions when others in the group do the same.",
+      "body": "Solomon Asch placed a participant in a room with seven other people who were secretly confederates. The group was shown a line and asked which of three comparison lines matched it in length. The answer was obvious. On critical trials, all the confederates gave the same wrong answer before the real participant responded.\n\nAbout 75 percent of participants conformed to the group's incorrect answer on at least one trial. About a third conformed on the majority of trials. In post-experiment interviews, some participants said they genuinely doubted their own perception. Others knew the group was wrong but went along to avoid standing out.\n\nAsch's studies are often presented as evidence of human susceptibility to social pressure, but Asch himself emphasized a more nuanced finding: across all trials, participants gave the correct answer about two-thirds of the time. Most people resisted conformity most of the time. And when even a single confederate broke ranks and gave the correct answer, conformity dropped dramatically. The studies revealed not just the power of the majority but the power of a single dissenting voice. Asch was not a pessimist about human rationality — he was interested in the conditions under which it could survive social pressure.",
+      "quote": "\"The tendency to conformity in our society is so strong that reasonably intelligent and well-meaning young people are willing to call white black.\" — S. Asch"
+    },
+    {
+      "id": "tversky-kahneman",
+      "cat": [
+        "Theory"
+      ],
+      "date": "1974",
+      "title": "Tversky and Kahneman Expose Systematic Errors in Human Judgment",
+      "lede": "Two Israeli psychologists demonstrate that people rely on mental shortcuts — heuristics — that produce predictable, systematic biases.",
+      "body": "Amos Tversky and Daniel Kahneman began collaborating in the late 1960s at Hebrew University, and their work would reshape economics, medicine, law, and public policy. Their 1974 paper \"Judgment under Uncertainty: Heuristics and Biases\" catalogued three mental shortcuts people use when making judgments under uncertainty — and the systematic errors each produces.\n\nThe \"representativeness\" heuristic leads people to judge probability by similarity rather than base rates. The \"availability\" heuristic makes events seem more likely if examples come easily to mind. \"Anchoring\" causes people to be disproportionately influenced by initial reference points, even arbitrary ones. Each heuristic is useful most of the time, but each generates predictable distortions.\n\nThe research challenged the foundational assumption of economics — that people are rational agents who maximize expected utility — and launched the field of behavioral economics. Kahneman won the Nobel Prize in Economics in 2002 (Tversky having died in 1996 and thus being ineligible). Their work influenced everything from medical decision-making to courtroom procedure to the design of retirement savings plans. The deepest implication was philosophical: human irrationality is not random noise. It has structure. And if it has structure, it can be anticipated, studied, and sometimes corrected.",
+      "quote": "\"People are not accustomed to thinking hard, and are often content to trust a plausible judgment that quickly comes to mind.\" — D. Kahneman"
+    },
+    {
+      "id": "beck-cognitive-therapy",
+      "cat": [
+        "Clinical",
+        "Theory"
+      ],
+      "date": "1963",
+      "title": "Beck Develops Cognitive Therapy, Challenges Freud From Within",
+      "lede": "A trained psychoanalyst abandons the couch and proposes that depression stems from distorted thinking patterns, not unconscious conflict.",
+      "body": "Aaron Beck was a committed psychoanalyst when he set out to validate Freud's theory that depression results from hostility turned inward. What he found instead was that depressed patients were dominated by automatic negative thoughts — about themselves, the world, and the future — that distorted their perception of reality. Depression wasn't repressed anger. It was a thinking disorder.\n\nBeck developed cognitive therapy as a structured, time-limited approach to identifying and correcting these distortions. Patients learned to recognize \"cognitive errors\" — all-or-nothing thinking, overgeneralization, catastrophizing, mind-reading — and to test their beliefs against evidence. The approach was practical, teachable, and empirically testable.\n\nCognitive therapy, later expanded into cognitive-behavioral therapy (CBT), became the most extensively researched psychotherapy in history. Hundreds of randomized controlled trials have demonstrated its efficacy for depression, anxiety, PTSD, and a wide range of other conditions. Beck's work also represented a methodological shift: he insisted that therapy should be subjected to the same empirical standards as medication. The irony is that Beck, trained in the psychoanalytic tradition, did more to displace it than almost anyone else — not through philosophical argument but through clinical evidence.",
+      "quote": "\"If our thinking is bogged down by distorted symbolic meanings, illogical reasoning, and erroneous interpretations, we become, in truth, blind and deaf.\" — A. Beck"
+    },
+    {
+      "id": "cajal-golgi-nobel",
+      "cat": [
+        "Neuroscience"
+      ],
+      "date": "1906",
+      "title": "Cajal and Golgi Share Nobel for Revealing the Brain's Building Blocks",
+      "lede": "Santiago Ramón y Cajal and Camillo Golgi win the Nobel Prize for discovering that the nervous system is made of individual cells — though they disagreed about what this meant.",
+      "body": "The 1906 Nobel Prize in Physiology or Medicine was awarded to two men who fundamentally disagreed with each other. Camillo Golgi, an Italian physician, had developed a revolutionary staining technique that made individual neurons visible under the microscope for the first time — the \"black reaction\" that stained random neurons in their entirety against a clear background. Santiago Ramón y Cajal, a Spanish anatomist, used Golgi's own technique to draw thousands of exquisitely detailed images of neural tissue.\n\nGolgi believed the nervous system was a continuous network — a \"reticular\" web of fused fibers. Cajal looked at the same slides and saw something different: discrete, individual cells separated by tiny gaps. Cajal was right. The \"neuron doctrine\" — the principle that the nervous system is composed of individual cells that communicate across synapses — became the foundation of modern neuroscience.\n\nAt the Nobel ceremony, Golgi used his lecture to attack the neuron doctrine. Cajal used his to defend it. It is one of the most awkward Nobel ceremonies on record. Cajal's painstaking drawings, made without modern imaging technology, remain scientifically accurate and artistically stunning. He proved that careful observation, combined with artistic skill and intellectual courage, could reveal the fundamental architecture of the mind.",
+      "quote": "\"Every man can, if he so desires, become the sculptor of his own brain.\" — S. Ramón y Cajal"
+    },
+    {
+      "id": "heider-simmel-triangles",
+      "cat": [
+        "Experiments"
+      ],
+      "date": "1944",
+      "title": "Heider and Simmel Show Humans See Minds Everywhere — Even in Triangles",
+      "lede": "A short animated film of geometric shapes moving around a rectangle reveals the human compulsion to attribute intentions and emotions to anything that moves.",
+      "body": "Fritz Heider and Marianne Simmel created a short animated film lasting just over a minute. It showed a large triangle, a small triangle, and a circle moving around and in and out of a rectangle with a hinged flap. There were no faces, no voices, no human features. Just shapes moving.\n\nWhen asked to describe what they saw, nearly every participant told a story involving intentions, emotions, and social relationships. The large triangle was a bully chasing the small triangle and circle. The small triangle and circle were in love. The rectangle was a house. People attributed anger, fear, affection, and cunning to geometric shapes with the same conviction they would describe a human drama.\n\nThe study demonstrated what psychologists now call the \"intentional stance\" — the deeply embedded human tendency to interpret behavior in terms of beliefs, desires, and goals. This capacity, closely related to \"theory of mind,\" appears to be one of the most fundamental features of human cognition. It explains not just how we understand each other but also why we tell stories, anthropomorphize animals, and attribute agency to gods, machines, and even the weather. Heider and Simmel showed that the social brain doesn't need much to get started — a few moving triangles are enough.",
+      "quote": "\"The movements were at once perceived as actions of animated beings.\" — F. Heider & M. Simmel"
+    },
+    {
+      "id": "apa-founded",
+      "cat": [
+        "Founding"
+      ],
+      "date": "1892",
+      "title": "American Psychological Association Founded With 31 Members",
+      "lede": "G. Stanley Hall convenes a small group at Clark University, establishing the professional organization that will grow to represent over 100,000 psychologists.",
+      "body": "In July 1892, G. Stanley Hall — one of Wundt's former students and the president of Clark University — invited a group of colleagues to form a professional organization for the new discipline of psychology. Thirty-one people became charter members of the American Psychological Association. Hall was elected its first president.\n\nThe early APA was a small academic society. Its members were almost exclusively white men affiliated with universities. The organization's primary function was to hold an annual meeting where researchers could present their work. There was no clinical division, no ethical code, and no public advocacy role.\n\nThe transformation came in waves. World War I demonstrated the practical utility of psychological testing. World War II created massive demand for clinical services. The postwar GI Bill funded a generation of graduate students, and the APA reorganized to accommodate both scientists and practitioners. The organization expanded to include divisions for clinical, industrial, social, developmental, and dozens of other specialties. The tension between psychology as a science and psychology as a profession — between those who generate knowledge and those who apply it — has been a defining feature of the APA's history ever since. What began as 31 academics in a room is now one of the largest scientific and professional organizations in the world.",
+      "quote": "\"Psychology has a long past but a short history.\" — H. Ebbinghaus (often quoted at APA gatherings)"
+    }
+  ]
+}
