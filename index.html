@@ -95,7 +95,11 @@
     transition: all 0.15s;
   }
 
-  .toolbar button:hover,
+  .toolbar button:hover {
+    border-color: var(--faded);
+    color: var(--ink);
+  }
+
   .toolbar button.active {
     background: var(--ink);
     color: var(--paper);
