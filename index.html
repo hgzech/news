@@ -336,6 +336,8 @@ const PAGE_SIZE = 10;
 let activeEra = null;
 let hideRead = false;
 let showStarred = false;
+let savedScrollY = 0;
+let lastOpenedId = null;
 
 function getReadSet() {
   try { return new Set(JSON.parse(localStorage.getItem('readArticles') || '[]')); }
@@ -482,6 +484,7 @@ function renderMore() {
       <h2>${a.title}</h2>
       <div class="lede">${a.lede}</div>
     `;
+    div.dataset.articleId = a.id;
     div.onclick = () => openArticle(a);
     feed.appendChild(div);
   });
@@ -496,15 +499,29 @@ window.addEventListener('scroll', () => {
   }
 });
 
+function closeFull() {
+  const feed = document.getElementById('feed');
+  const full = document.getElementById('article-full');
+  full.classList.remove('visible');
+  feed.classList.remove('hidden');
+  if (lastOpenedId) {
+    const card = feed.querySelector(`[data-article-id="${lastOpenedId}"]`);
+    if (card) card.classList.add('read');
+  }
+  window.scrollTo({ top: savedScrollY });
+}
+
 function openArticle(a) {
   markRead(a.id);
+  lastOpenedId = a.id;
+  savedScrollY = window.scrollY;
   const feed = document.getElementById('feed');
   const full = document.getElementById('article-full');
 
   feed.classList.add('hidden');
   const starred = getStarSet().has(a.id);
   full.innerHTML = `
-    <button class="back-btn" onclick="applyFiltersAndRender()">← Back to feed</button>
+    <button class="back-btn" onclick="closeFull()">← Back to feed</button>
     <div class="category-label">${a.cat.join(' · ')}</div>
     <h2>${a.title}</h2>
     <div class="meta">${a.date}</div>
