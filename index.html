@@ -155,6 +155,25 @@
     opacity: 0.45;
   }
 
+  .star-btn {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.65rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    background: none;
+    border: 1px solid var(--rule);
+    color: var(--faded);
+    padding: 0.3rem 0.7rem;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: all 0.15s;
+    margin-top: 1rem;
+    display: inline-block;
+  }
+
+  .star-btn:hover { border-color: var(--accent); color: var(--accent); }
+  .star-btn.starred { background: var(--accent); color: var(--paper); border-color: var(--accent); }
+
   /* Expanded article view */
   .article-full {
     display: none;
@@ -312,6 +331,7 @@ let renderedCount = 0;
 const PAGE_SIZE = 10;
 let activeEra = null;
 let hideRead = false;
+let showStarred = false;
 
 function getReadSet() {
   try { return new Set(JSON.parse(localStorage.getItem('readArticles') || '[]')); }
@@ -323,6 +343,18 @@ function markRead(id) {
   if (set.has(id)) return;
   set.add(id);
   localStorage.setItem('readArticles', JSON.stringify([...set]));
+}
+
+function getStarSet() {
+  try { return new Set(JSON.parse(localStorage.getItem('starredArticles') || '[]')); }
+  catch { return new Set(); }
+}
+
+function toggleStar(id) {
+  const set = getStarSet();
+  set.has(id) ? set.delete(id) : set.add(id);
+  localStorage.setItem('starredArticles', JSON.stringify([...set]));
+  return set.has(id);
 }
 
 function parseYear(dateStr) {
@@ -385,6 +417,17 @@ function renderEraToolbar() {
     applyFiltersAndRender();
   };
   tb.appendChild(hideBtn);
+
+  const starBtn = document.createElement('button');
+  starBtn.id = 'starred-filter-btn';
+  starBtn.textContent = '★ Starred';
+  starBtn.onclick = () => {
+    showStarred = !showStarred;
+    starBtn.classList.toggle('active', showStarred);
+    if (showStarred) { hideRead = false; document.getElementById('hide-read-btn').classList.remove('active'); }
+    applyFiltersAndRender();
+  };
+  tb.appendChild(starBtn);
 }
 
 function applyFiltersAndRender() {
@@ -396,8 +439,11 @@ function applyFiltersAndRender() {
   feed.classList.remove('hidden');
 
   const readSet = getReadSet();
+  const starSet = getStarSet();
   const filtered = allArticles.filter(a =>
-    matchesEra(a, activeEra) && !(hideRead && readSet.has(a.id))
+    matchesEra(a, activeEra) &&
+    !(hideRead && readSet.has(a.id)) &&
+    !(showStarred && !starSet.has(a.id))
   );
 
   filteredShuffled = [...filtered].sort(() => Math.random() - 0.5);
@@ -446,6 +492,7 @@ function openArticle(a) {
   const full = document.getElementById('article-full');
 
   feed.classList.add('hidden');
+  const starred = getStarSet().has(a.id);
   full.innerHTML = `
     <button class="back-btn" onclick="applyFiltersAndRender()">← Back to feed</button>
     <div class="category-label">${a.cat.join(' · ')}</div>
@@ -456,6 +503,11 @@ function openArticle(a) {
       <div class="sidebar-quote">${a.quote}</div>
       <div class="meta" style="margin-top:1rem;border-top:none;padding-top:0;">${a.source}</div>
     </div>
+    <button class="star-btn${starred ? ' starred' : ''}" id="star-btn" onclick="
+      const isNow = toggleStar('${a.id}');
+      this.textContent = isNow ? '★ Starred' : '☆ Star';
+      this.classList.toggle('starred', isNow);
+    ">${starred ? '★ Starred' : '☆ Star'}</button>
   `;
   full.classList.add('visible');
   window.scrollTo({ top: 0, behavior: 'smooth' });
