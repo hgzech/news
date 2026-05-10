@@ -139,9 +139,11 @@
   }
 
   .feed-star {
-    font-size: 1rem;
-    line-height: 1;
-    opacity: 0.8;
+    width: 0.8rem;
+    height: 0.8rem;
+    fill: currentColor;
+    opacity: 0.75;
+    flex-shrink: 0;
   }
 
   .article h2 {
@@ -513,7 +515,7 @@ function renderMore() {
     div.innerHTML = `
       <div class="date-tag">
         <span>${a.cat.join(' · ')} · ${a.date}</span>
-        ${starSet.has(a.id) ? '<span class="feed-star">★</span>' : ''}
+        ${starSet.has(a.id) ? '<svg class="feed-star" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2l2.83 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01z"/></svg>' : ''}
       </div>
       <h2>${a.title}</h2>
       <div class="lede">${a.lede}</div>
@@ -551,9 +553,9 @@ function closeFull() {
       const dateTag = card.querySelector('.date-tag');
       if (dateTag) {
         const isStarred = getStarSet().has(lastOpenedId);
-        const existing = dateTag.querySelector('.feed-star');
+        const existing = dateTag.querySelector('svg.feed-star');
         if (isStarred && !existing) {
-          dateTag.insertAdjacentHTML('beforeend', '<span class="feed-star">★</span>');
+          dateTag.insertAdjacentHTML('beforeend', '<svg class="feed-star" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2l2.83 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01z"/></svg>');
         } else if (!isStarred && existing) {
           existing.remove();
         }
