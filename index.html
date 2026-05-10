@@ -178,6 +178,22 @@
   .star-icon-btn:hover { color: var(--accent); transform: scale(1.15); }
   .star-icon-btn.starred { color: var(--accent); }
 
+  .unread-btn {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.6rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    background: none;
+    border: none;
+    color: var(--faded);
+    cursor: pointer;
+    padding: 0.4rem 0;
+    opacity: 0.55;
+    transition: opacity 0.15s, color 0.15s;
+  }
+  .unread-btn:hover { opacity: 1; color: var(--ink); }
+  .unread-btn.done { color: var(--accent); opacity: 1; cursor: default; }
+
   /* Expanded article view */
   .article-full {
     display: none;
@@ -351,6 +367,14 @@ function markRead(id) {
   localStorage.setItem('readArticles', JSON.stringify([...set]));
 }
 
+function markUnread(id) {
+  const set = getReadSet();
+  set.delete(id);
+  localStorage.setItem('readArticles', JSON.stringify([...set]));
+  const btn = document.getElementById('unread-btn');
+  if (btn) { btn.textContent = '✓ marked unread'; btn.classList.add('done'); }
+}
+
 function getStarSet() {
   try { return new Set(JSON.parse(localStorage.getItem('starredArticles') || '[]')); }
   catch { return new Set(); }
@@ -508,7 +532,13 @@ function closeFull() {
   document.getElementById('era-toolbar').style.display = '';
   if (lastOpenedId) {
     const card = feed.querySelector(`[data-article-id="${lastOpenedId}"]`);
-    if (card) card.classList.add('read');
+    if (card) {
+      if (getReadSet().has(lastOpenedId)) {
+        card.classList.add('read');
+      } else {
+        card.classList.remove('read');
+      }
+    }
   }
   window.scrollTo({ top: savedScrollY });
 }
@@ -527,6 +557,7 @@ function openArticle(a) {
   full.innerHTML = `
     <div class="article-top-bar">
       <button class="back-btn" onclick="closeFull()">← Back to feed</button>
+      <button class="unread-btn" id="unread-btn" onclick="markUnread('${a.id}')">mark unread</button>
       <button class="star-icon-btn${starred ? ' starred' : ''}" id="star-btn" onclick="
         const isNow = toggleStar('${a.id}');
         this.textContent = isNow ? '★' : '☆';
