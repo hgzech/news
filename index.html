@@ -145,6 +145,16 @@
     line-height: 1.45;
   }
 
+  .article.read h2 {
+    color: var(--faded);
+    font-weight: 400;
+  }
+
+  .article.read .date-tag::after {
+    content: ' · ✓';
+    opacity: 0.45;
+  }
+
   /* Expanded article view */
   .article-full {
     display: none;
@@ -301,6 +311,19 @@ let filteredShuffled = [];
 let renderedCount = 0;
 const PAGE_SIZE = 10;
 let activeEra = null;
+let hideRead = false;
+
+function getReadSet() {
+  try { return new Set(JSON.parse(localStorage.getItem('readArticles') || '[]')); }
+  catch { return new Set(); }
+}
+
+function markRead(id) {
+  const set = getReadSet();
+  if (set.has(id)) return;
+  set.add(id);
+  localStorage.setItem('readArticles', JSON.stringify([...set]));
+}
 
 function parseYear(dateStr) {
   const m = String(dateStr).match(/\d{4}/);
@@ -352,6 +375,16 @@ function renderEraToolbar() {
     };
     tb.appendChild(btn);
   });
+
+  const hideBtn = document.createElement('button');
+  hideBtn.id = 'hide-read-btn';
+  hideBtn.textContent = 'Hide read';
+  hideBtn.onclick = () => {
+    hideRead = !hideRead;
+    hideBtn.classList.toggle('active', hideRead);
+    applyFiltersAndRender();
+  };
+  tb.appendChild(hideBtn);
 }
 
 function applyFiltersAndRender() {
@@ -362,7 +395,10 @@ function applyFiltersAndRender() {
   full.classList.remove('visible');
   feed.classList.remove('hidden');
 
-  const filtered = allArticles.filter(a => matchesEra(a, activeEra));
+  const readSet = getReadSet();
+  const filtered = allArticles.filter(a =>
+    matchesEra(a, activeEra) && !(hideRead && readSet.has(a.id))
+  );
 
   filteredShuffled = [...filtered].sort(() => Math.random() - 0.5);
   renderedCount = 0;
@@ -380,9 +416,10 @@ function applyFiltersAndRender() {
 function renderMore() {
   const feed = document.getElementById('feed');
   const slice = filteredShuffled.slice(renderedCount, renderedCount + PAGE_SIZE);
+  const readSet = getReadSet();
   slice.forEach((a, i) => {
     const div = document.createElement('div');
-    div.className = 'article';
+    div.className = 'article' + (readSet.has(a.id) ? ' read' : '');
     div.style.animationDelay = `${i * 0.04}s`;
     div.innerHTML = `
       <div class="date-tag">${a.cat.join(' · ')} · ${a.date}</div>
@@ -404,6 +441,7 @@ window.addEventListener('scroll', () => {
 });
 
 function openArticle(a) {
+  markRead(a.id);
   const feed = document.getElementById('feed');
   const full = document.getElementById('article-full');
 
