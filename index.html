@@ -139,11 +139,12 @@
   }
 
   .feed-star {
-    width: 0.8rem;
-    height: 0.8rem;
+    width: 0.65rem;
+    height: 0.65rem;
     fill: currentColor;
     opacity: 0.75;
     flex-shrink: 0;
+    display: block;
   }
 
   .article h2 {
@@ -515,7 +516,7 @@ function renderMore() {
     div.innerHTML = `
       <div class="date-tag">
         <span>${a.cat.join(' · ')} · ${a.date}</span>
-        ${starSet.has(a.id) ? '<svg class="feed-star" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2l2.83 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01z"/></svg>' : ''}
+        ${starSet.has(a.id) ? '<svg class="feed-star" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>' : ''}
       </div>
       <h2>${a.title}</h2>
       <div class="lede">${a.lede}</div>
@@ -555,7 +556,7 @@ function closeFull() {
         const isStarred = getStarSet().has(lastOpenedId);
         const existing = dateTag.querySelector('svg.feed-star');
         if (isStarred && !existing) {
-          dateTag.insertAdjacentHTML('beforeend', '<svg class="feed-star" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2l2.83 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01z"/></svg>');
+          dateTag.insertAdjacentHTML('beforeend', '<svg class="feed-star" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>');
         } else if (!isStarred && existing) {
           existing.remove();
         }
