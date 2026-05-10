@@ -504,6 +504,7 @@ function renderMore() {
   const feed = document.getElementById('feed');
   const slice = filteredShuffled.slice(renderedCount, renderedCount + PAGE_SIZE);
   const readSet = getReadSet();
+  const starSet = getStarSet();
   slice.forEach((a, i) => {
     const div = document.createElement('div');
     div.className = 'article' + (readSet.has(a.id) ? ' read' : '');
