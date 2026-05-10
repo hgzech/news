@@ -376,7 +376,12 @@ function matchesEra(article, era) {
 async function loadArticles() {
   const manifest = await fetch('data/manifest.json').then(r => r.json());
   const batches = await Promise.all(manifest.map(f => fetch('data/' + f).then(r => r.json())));
-  allArticles = batches.flatMap(b => b.articles.map(a => ({ ...a, source: b.source })));
+  allArticles = batches.flatMap(b => b.articles.map(a => ({
+    ...a,
+    source: b.source,
+    cat: a.cat || (a.era ? [a.era] : ['Psychology']),
+    quote: a.quote || ''
+  })));
   renderEraToolbar();
   applyFiltersAndRender();
 }
@@ -398,6 +403,7 @@ function renderEraToolbar() {
       if (activeEra === value) {
         activeEra = null;
         btn.classList.remove('active');
+        btn.blur();
       } else {
         activeEra = value;
         document.querySelectorAll('#era-toolbar button').forEach(b => b.classList.remove('active'));
@@ -500,7 +506,7 @@ function openArticle(a) {
     <div class="meta">${a.date}</div>
     <div class="body">
       ${a.body.split('\n\n').map(p => `<p>${p}</p>`).join('')}
-      <div class="sidebar-quote">${a.quote}</div>
+      ${a.quote ? `<div class="sidebar-quote">${a.quote}</div>` : ''}
       <div class="meta" style="margin-top:1rem;border-top:none;padding-top:0;">${a.source}</div>
     </div>
     <button class="star-btn${starred ? ' starred' : ''}" id="star-btn" onclick="
