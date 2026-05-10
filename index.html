@@ -135,6 +135,11 @@
     margin-bottom: 0.3rem;
   }
 
+  .feed-star {
+    opacity: 0.55;
+    font-size: 0.85em;
+  }
+
   .article h2 {
     font-family: 'Playfair Display', serif;
     font-weight: 700;
@@ -504,7 +509,7 @@ function renderMore() {
     div.className = 'article' + (readSet.has(a.id) ? ' read' : '');
     div.style.animationDelay = `${i * 0.04}s`;
     div.innerHTML = `
-      <div class="date-tag">${a.cat.join(' · ')} · ${a.date}</div>
+      <div class="date-tag">${a.cat.join(' · ')} · ${a.date}${starSet.has(a.id) ? ' <span class="feed-star">★</span>' : ''}</div>
       <h2>${a.title}</h2>
       <div class="lede">${a.lede}</div>
     `;
@@ -537,6 +542,16 @@ function closeFull() {
         card.classList.add('read');
       } else {
         card.classList.remove('read');
+      }
+      const dateTag = card.querySelector('.date-tag');
+      if (dateTag) {
+        const isStarred = getStarSet().has(lastOpenedId);
+        const existing = dateTag.querySelector('.feed-star');
+        if (isStarred && !existing) {
+          dateTag.insertAdjacentHTML('beforeend', ' <span class="feed-star">★</span>');
+        } else if (!isStarred && existing) {
+          existing.remove();
+        }
       }
     }
   }
