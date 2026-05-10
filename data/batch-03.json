@@ -1,0 +1,455 @@
+{
+  "source": "Wertheimer — Part 1",
+  "articles": [
+    {
+      "id": "democritus-atomic-mind",
+      "era": "Ancient",
+      "date": "c. 400 BCE",
+      "title": "Everything Is Atoms — Even the Mind",
+      "subtitle": "Democritus of Abdera extends his atomic theory to the soul, leaving no room for free will or divine intervention in human thought.",
+      "lede": "Democritus of Abdera has proposed that the soul, like all matter, is composed of tiny indestructible atoms — and that thought itself is nothing but their motion.",
+      "body": "At Abdera, the philosopher Democritus has extended his atomic theory to its most provocative conclusion: the human mind is not separate from the body but is itself made of atoms — smaller, rounder, and more mobile than those composing stone or wood, but atoms nonetheless.\n\nIn this view, thought is motion. Sensation arises when atoms from the external world strike the sense organs and travel inward. Perception, memory, emotion — all are rearrangements of matter following laws as fixed as those governing falling stones.\n\nThe implications trouble many. If the mind is atoms, decisions are not truly free — they are the inevitable result of prior atomic collisions stretching back to the beginning of the world. Democritus appears undisturbed. He holds cheerfulness, a calm equanimity, as the highest good — a psychological counsel that sits oddly beside his determinism.\n\nThe soul-atom doctrine will travel through Epicurus and Lucretius into Rome, and will re-emerge whenever science turns to ask whether matter alone can account for a mind."
+    },
+    {
+      "id": "plato-forms-know-thyself",
+      "era": "Ancient",
+      "date": "c. 380 BCE",
+      "title": "The Academy's Lesson: Trust Your Reason, Not Your Eyes",
+      "subtitle": "Plato argues that the senses deceive and that genuine knowledge requires turning inward toward eternal, immaterial Forms.",
+      "lede": "Plato of Athens has proposed that the world perceived by the senses is a shadow of a higher, invisible realm of perfect Forms — and that genuine knowledge requires turning away from the senses entirely.",
+      "body": "In the dialogues circulating from the Academy, Socrates poses a question to each interlocutor: do you know what justice is, or merely what just things look like? Every beautiful object decays; Beauty itself does not. Every pair of equal sticks is only approximately equal; Equality itself is perfect and eternal.\n\nThe argument extends to the mind. The soul, in Plato's account, does not learn — it recollects. Before birth it inhabited the realm of Forms and knew them directly. Encountering particular things in the world reminds the soul of what it once grasped clearly. Education is not filling an empty vessel but turning the whole person toward the light.\n\n\"Know thyself\" — the Delphic inscription Socrates returns to — means precisely this: recognize the rational soul within and govern the appetites by it.\n\nPlato's insistence that mind is irreducible to matter will shape every dualist psychology that follows. Descartes will reinvent the distinction two thousand years later as res cogitans and res extensa, and the question of how the two relate will still be unsettled when experimental psychology opens its first laboratories."
+    },
+    {
+      "id": "aristotle-de-anima",
+      "era": "Ancient",
+      "date": "c. 350 BCE",
+      "title": "Aristotle's De Anima — A New Science of the Soul",
+      "subtitle": "Aristotle's systematic treatise treats the soul not as a divine resident but as the body's own organizing form, launching the first empirical psychology.",
+      "lede": "Aristotle has completed a systematic treatise on the soul that treats it not as a divine resident imprisoned in the body but as the body's own form — the organizing principle that makes a living thing alive.",
+      "body": "The treatise On the Soul, circulating among Aristotle's students at the Lyceum, marks a decisive departure from Plato. The soul is not imprisoned in the body awaiting release. It is the body's form — the actuality of a living, organized physical thing. Remove the soul and you have not a body with a missing occupant but simply a corpse.\n\nAristotle distinguishes three types: the nutritive soul common to all living things; the sensitive soul shared by animals; and the rational soul unique to humans. Sensation, in his account, is the reception of form without matter — the wax takes the shape of a signet ring but not the gold of which the ring is made.\n\nThe treatise covers perception, memory, imagination, and desire, treating each as a subject for empirical inquiry rather than mystical contemplation.\n\nMedieval scholars will discover De Anima through Arabic translations and make it the centerpiece of philosophical psychology through the Renaissance. Aristotle's framework will persist for nearly two thousand years, until Descartes replaces the soul-as-form with the soul-as-immaterial-substance — creating problems Aristotle had deftly avoided."
+    },
+    {
+      "id": "aristotle-laws-association",
+      "era": "Ancient",
+      "date": "c. 350 BCE",
+      "title": "Three Laws That Govern Memory — How One Thought Calls Up the Next",
+      "subtitle": "Aristotle identifies contiguity, similarity, and contrast as the principles by which one memory reliably summons another.",
+      "lede": "Aristotle has identified three principles by which one memory reliably calls up another — the first systematic account of what later thinkers will call the laws of association.",
+      "body": "In his short treatise On Memory and Recollection, Aristotle offers a precise mechanism for how one thought summons the next. Three regularities hold: things experienced together are remembered together — contiguity; things that resemble one another call each other to mind — similarity; opposites do the same — contrast.\n\nThe observations emerge from everyday experience. A man trying to remember a friend's name begins with a connected memory — something they did together — and the name follows. Honey brings bitterness to mind because they are contraries. A melody recalls its lyrics because they were always heard together.\n\nThere is nothing mystical here. Aristotle proposes that the movement of one memory-trace sets adjacent traces vibrating, as a disturbed stone agitates water around it.\n\nWhat Aristotle describes informally will become, two thousand years later, the formal foundation of British empiricist psychology. Locke, Hume, Hartley, and James Mill will each build their systems on these three laws — usually acknowledging the source. Ebbinghaus will submit the laws to controlled experimental test, and contiguity will survive intact where the others require qualification."
+    },
+    {
+      "id": "galen-humors-brain",
+      "era": "Ancient",
+      "date": "c. 170 CE",
+      "title": "Galen Places the Mind in the Brain — and the Body in Four Humors",
+      "subtitle": "The court physician Galen uses vivisection to overturn Aristotle, proving the brain governs the body, while building a theory of temperament from the four humors.",
+      "lede": "The court physician Galen has declared, against Aristotle and with anatomical evidence in hand, that the brain — not the heart — is the seat of sensation, movement, and rational thought.",
+      "body": "In a series of public demonstrations at Rome, Galen has cut the nerves of living animals with systematic precision. Sever the recurrent laryngeal nerve and a pig stops squealing but continues breathing. Compress the spinal cord and paralysis follows below the point of compression. The demonstrations point in one direction: the brain governs the body through the nerves.\n\nGalen locates mental functions in the brain's ventricles — the fluid-filled chambers he believes carry the psychic pneuma responsible for sensation and voluntary movement. He also develops humoral theory into a psychology of temperament: excess blood produces a sanguine character; black bile, a melancholic one; yellow bile, a choleric one; phlegm, a phlegmatic one.\n\nThe brain claim will prove correct. The humors will prove fictional. But the temperament framework, persisting through the Middle Ages and Renaissance, will seed every trait theory that follows — Eysenck's dimensions of personality are a direct descendant — even as the humoral substrate is replaced first by nerve physiology, then by neurotransmitter chemistry."
+    },
+    {
+      "id": "aquinas-aristotle-church",
+      "era": "Renaissance",
+      "date": "c. 1270",
+      "title": "Aquinas Reconciles Aristotle With the Faith — and Saves Psychology in the Process",
+      "subtitle": "Thomas Aquinas synthesizes Aristotelian psychology with Christian theology, preventing a wholesale condemnation of ancient learning at the medieval universities.",
+      "lede": "Thomas Aquinas, Dominican friar and professor at Paris, has completed a synthesis that allows Aristotle's psychology of soul to coexist with Christian theology — preventing a wholesale condemnation of ancient learning.",
+      "body": "The universities of Paris and Oxford have been troubled for decades by the arrival, via Arabic scholars, of Aristotle's full works on nature, logic, and the soul. Church authorities have issued repeated prohibitions. Aristotle's determinism, his doubts about personal immortality, his Greek indifference to divine providence — all have alarmed the theologians.\n\nAquinas takes an audacious middle path. He accepts Aristotle's framework — the soul as form of the body, the hierarchy of nutritive, sensitive, and rational functions — and argues that it is compatible with Christian doctrine if carefully reread. The rational soul, uniquely in humans, is not entirely dependent on the body and can survive death. Revelation supplements reason; it does not contradict it.\n\nThe synthesis is not without strain. Averroists at Paris resist the accommodation. Pure Augustinians distrust Aristotle entirely. But Aquinas's achievement is decisive: Aristotelian psychology survives the Middle Ages.\n\nScholastic psychology, built on this foundation, will remain the default framework until Descartes proposes, three centuries later, that matter and mind are entirely separate substances — making Aristotle's soul-as-form look, in retrospect, rather more elegant than it had seemed."
+    },
+    {
+      "id": "copernicus-heliocentric",
+      "era": "Renaissance",
+      "date": "1543",
+      "title": "Earth Moves — Copernicus Shatters the Ancient Cosmos",
+      "subtitle": "Copernicus publishes his heliocentric theory on his deathbed, challenging the authority of the ancients and opening the door to evidence-based natural philosophy.",
+      "lede": "Nicolaus Copernicus has died this spring, leaving behind a book arguing that the Earth circles the Sun — a claim that will cost the ancient authorities their hold on natural philosophy.",
+      "body": "The preface to De Revolutionibus appeared without Copernicus's knowledge, inserted by a Lutheran minister anxious to soften the claim: the heliocentric model, the preface suggests, is merely a mathematical device, not a physical claim. Copernicus, receiving his copy on his deathbed, was in no position to object.\n\nThe physical claim was real. For over a millennium, Aristotle and Ptolemy had placed the Earth at the center of nested crystalline spheres. The Bible seemed to confirm it. Common sense seemed to confirm it. Now a Polish canon has argued otherwise, on the grounds that the calculations are simpler and more consistent with observation.\n\nThe immediate response is muted. The book is difficult, the print run small, the implications not yet fully drawn.\n\nBut the method matters as much as the conclusion: authority, however ancient and however sacred, must give way to evidence. A generation of natural philosophers will take this lesson and apply it to every domain of inquiry — including, eventually, the study of the human mind itself."
+    },
+    {
+      "id": "bacon-novum-organum",
+      "era": "Renaissance",
+      "date": "1620",
+      "title": "Bacon's New Instrument — Observation Must Overthrow Authority",
+      "subtitle": "Francis Bacon's Novum Organum demands induction from observation as the only reliable path to knowledge, naming four Idols that distort human judgment.",
+      "lede": "Francis Bacon, Lord Chancellor of England, has published the Novum Organum — a manifesto declaring that induction from observation, not deduction from ancient texts, is the only reliable path to knowledge.",
+      "body": "The title is deliberate. Aristotle's Organon was the ancient tool of logic; Bacon's new instrument is meant to replace it. The complaint is simple: two thousand years of syllogistic reasoning from received premises have yielded no new knowledge of nature. The world's workings cannot be reasoned out from armchairs. They must be interrogated.\n\nBacon catalogs the sources of error he calls Idols — of the Tribe (distortions shared by all humans), the Cave (distortions unique to each individual), the Marketplace (confusion arising from language), and the Theatre (philosophical systems that are performances, not truths). Each idol must be identified before reliable inquiry can begin.\n\nThe positive method is induction: gather many observations, eliminate alternative explanations, arrive at generalizations that further observation can refine.\n\nThe program is more visionary than practical — Bacon himself never ran a controlled experiment — but the epistemological demand is powerful. A century later, the British empiricists will adopt it as their explicit self-image, applying it directly to the study of mind: asking what observation alone can tell us about perception, memory, and desire."
+    },
+    {
+      "id": "harvey-blood-circulation",
+      "era": "Renaissance",
+      "date": "1628",
+      "title": "The Heart Is a Pump — Harvey Leaves No Room for Vital Spirits",
+      "subtitle": "William Harvey proves that blood circulates continuously through the body by mechanical action alone, stripping the body of its need for Galenic vital forces.",
+      "lede": "William Harvey, physician to the King of England, has published proof that blood circulates continuously through the body — driven by the mechanical action of the heart, with no vital force required.",
+      "body": "For fourteen centuries, Galen's account held: blood was manufactured in the liver, distributed outward, and consumed at the periphery. Harvey, working from careful dissection and calculation of the volume the heart pumps per beat, has shown this to be impossible.\n\nThe arithmetic is decisive. The heart pumps roughly two ounces per beat at seventy-two beats a minute. In half an hour it has pushed more blood through the aorta than the entire body contains. The blood cannot be manufactured fast enough. It must return.\n\nHarvey traces the venous valves — he calls them \"little doors\" — that allow blood to flow only toward the heart, never away. The circuit is complete. No vital spirits are needed. The body is, at least in this respect, a mechanism.\n\nDescartes will seize on Harvey's demonstration within a decade. If the body's fluid dynamics need no vital principle, perhaps the entire body — and eventually the brain itself — can be explained mechanically. The question of what, if anything, requires a non-mechanical explanation will define the next two centuries of natural philosophy."
+    },
+    {
+      "id": "descartes-danube-dream",
+      "era": "Enlightenment",
+      "date": "1619",
+      "title": "A Night on the Danube — Descartes Dreams His Method Into Existence",
+      "subtitle": "The twenty-three-year-old René Descartes experiences three vivid dreams that he believes reveal the foundations of a new universal science.",
+      "lede": "René Descartes, wintering with a German army on the banks of the Danube, has recorded three remarkable dreams he believes revealed — in a single night — the foundations of a new universal science.",
+      "body": "On the night of November 10, 1619, the twenty-three-year-old Descartes retired to a stove-heated room and experienced three consecutive dreams he later described as the most important night of his life. In the third, a dictionary and a collection of poems appeared — emblems, he interpreted, of philosophy and poetry united in a single truth.\n\nHe awoke convinced that mathematics could serve as the universal language of all knowledge. The insight would produce, over the following years, the union of algebra and geometry now called analytic geometry — and eventually the method of the Discours.\n\nThe mystical circumstances should not obscure what followed. Descartes took the skeptic's problem — what can we know with certainty? — and proposed to answer it by doubting everything until something proved undoubtable.\n\nThe night on the Danube will be remembered as the moment a mathematician decided that certainty, not tradition, was the only acceptable foundation for human knowledge. The resolve that hardened there will, two decades later, produce the Meditations — and with them, the mind-body problem in its enduring modern form."
+    },
+    {
+      "id": "descartes-cogito",
+      "era": "Enlightenment",
+      "date": "1641",
+      "title": "Cogito Ergo Sum — Descartes Rebuilds Knowledge From a Single Certainty",
+      "subtitle": "The Meditations derive existence from the one fact radical doubt cannot dissolve, then struggle to explain how an immaterial soul and a mechanical body can meet.",
+      "lede": "René Descartes has published his Meditations on First Philosophy, deriving the existence of the self from the one fact that radical doubt cannot dissolve: that there is something doing the doubting.",
+      "body": "The method is systematic skepticism. Can I doubt the existence of the external world? Yes — perhaps an evil demon plants all perceptions in me. Can I doubt that my body exists? Even that. But can I doubt that I am doubting? Here the doubt defeats itself. The act of doubting is itself a form of thinking. If I am thinking, something is thinking. I exist — at minimum, as a thinking thing.\n\nCogito ergo sum. The certainty is minimal but unassailable, and Descartes builds from it toward the existence of God and the external world.\n\nOn the mind-body problem, he is less triumphant. Mind and body are entirely distinct substances — the one unextended and thinking, the other extended and unthinking. How they interact, he cannot cleanly explain. He places their meeting point at the pineal gland, a small structure unique in not being paired.\n\nThe interaction problem he bequeathed — how does an immaterial mind move a material body? — will preoccupy philosophy for the next four centuries. Spinoza, Leibniz, and eventually the neurosciences will offer answers, none of them universally accepted."
+    },
+    {
+      "id": "hobbes-leviathan",
+      "era": "Enlightenment",
+      "date": "1651",
+      "title": "Leviathan — Hobbes Reduces Mind to Motion and Morality to Contract",
+      "subtitle": "Thomas Hobbes argues in Parisian exile that thought is matter in motion and that pleasure and pain are the only genuine motives of human action.",
+      "lede": "Thomas Hobbes, writing in exile in Paris, has published Leviathan — arguing that thought is nothing but the motion of matter in the brain, and that pleasure and pain are the only real motives of human action.",
+      "body": "Hobbes begins with physics. The universe is bodies in motion. Sense is the motion of matter transmitted from external objects to the brain. Imagination is decaying sense — motion growing faint. Thought is motion from one image to the next, governed by associations formed in experience. There is no immaterial mind, no rational soul separate from the flesh.\n\nOn this foundation he builds a political psychology. In the state of nature, without government or law, every person pursues pleasure and avoids pain in unlimited competition. Life is famously \"solitary, poor, nasty, brutish, and short.\" The Leviathan — a sovereign with power sufficient to enforce peace — provides the only escape.\n\nThe psychology is brutal in its simplicity. Desire drives action. Nothing has value beyond what any individual desires at any moment.\n\nThe argument strips every moral gloss from human motivation. Later psychologists who study drives, incentives, and reinforcement are working on a problem Hobbes stated first — and his answer, that behavior reduces to approach and avoidance, remains the default assumption of much contemporary learning theory."
+    },
+    {
+      "id": "spinoza-double-aspect",
+      "era": "Enlightenment",
+      "date": "1677",
+      "title": "One Substance, Two Faces — Spinoza's Answer to the Mind-Body Problem",
+      "subtitle": "Spinoza's posthumous Ethics proposes that mind and body are two attributes of a single infinite reality, dissolving Descartes's interaction problem at a stroke.",
+      "lede": "The posthumously published Ethics of Baruch Spinoza proposes that mind and body are not two substances but two attributes of a single infinite substance — a solution to Descartes's interaction problem that satisfies almost no one and influences almost everyone.",
+      "body": "Descartes left a wound in European philosophy. If mind is entirely distinct from matter, how does a thought produce a muscular movement? Spinoza, the Amsterdam lens-grinder excommunicated from his own community, has the most radical answer: the problem rests on a false premise. Mind and body are not two substances — they are two ways of describing one and the same thing.\n\nThe single substance — which Spinoza calls God or Nature interchangeably — has infinite attributes, of which humans can know only two: thought and extension. Any event described as mental can also be described as physical. They are not causally related because they are identical under different descriptions.\n\nThe vision is monist and, to many readers, vertiginously impersonal. There is no free will, no divine providence, no personal God who intervenes.\n\nThe double-aspect formulation will re-emerge in Fechner's panpsychism, in William James's neutral monism, and in twentieth-century philosophy of mind as the most respectable response to the hard problem of consciousness. Every philosopher who insists mental and physical descriptions are both legitimate but neither reducible is standing on ground Spinoza cleared."
+    },
+    {
+      "id": "locke-essay-human-understanding",
+      "era": "Enlightenment",
+      "date": "1690",
+      "title": "The Mind Begins Blank — Locke's Assault on Innate Ideas",
+      "subtitle": "John Locke's Essay argues that all knowledge derives from experience and that the mind at birth is like white paper waiting to be written on.",
+      "lede": "John Locke has published An Essay Concerning Human Understanding — a sustained argument that the mind at birth contains no innate ideas and that all knowledge derives from experience.",
+      "body": "The target is explicit. Philosophers and theologians have long supposed that certain ideas — God, logical axioms, moral principles — are stamped into the mind before any experience. Locke finds no evidence. Children do not assent to logical axioms as soon as they are born. Peoples across the world disagree radically on moral principles. Nothing supposed to be universal actually is.\n\nThe alternative Locke proposes is an empty mind — a white paper — upon which experience writes. Simple ideas arrive through sensation: red, sweet, hard, cold. Others arise through reflection on the mind's own operations: perceiving, doubting, willing. Complex ideas are combinations and comparisons of simpler ones.\n\nThe argument carries immediate political force: if there are no innate hierarchies, then political authority requires justification from consent, not from nature.\n\nThe blank slate will become the founding assumption of educational reformers, political radicals, and eventually the behaviorist psychologists who will argue, three centuries later, that all behavior is shaped by environment and contingency — extending Locke's empiricism from philosophy directly into the experimental laboratory."
+    },
+    {
+      "id": "locke-primary-secondary-qualities",
+      "era": "Enlightenment",
+      "date": "1690",
+      "title": "The Color Red Exists Only in Your Mind — Locke on Primary and Secondary Qualities",
+      "subtitle": "Locke distinguishes between qualities that belong to objects themselves and qualities that exist only in the perceiver — a line that proves easier to draw than to defend.",
+      "lede": "Locke's Essay draws a distinction between qualities that belong to objects themselves and qualities that exist only in the mind of the perceiver — a line that will trouble the philosophy of perception for three centuries.",
+      "body": "A stone has solidity, extension, shape, and motion — primary qualities that, Locke argues, belong to the stone regardless of whether anyone perceives it. But the stone's color, smell, and temperature as felt — these are secondary qualities: powers in the object to produce certain ideas in us, not resemblances of anything in the object itself.\n\nThe color red, in Locke's account, is not in the rose. The rose has microstructural features that, when light reflects from them and strikes a human eye, produce the sensation we call redness. Redness is the sensation, not the feature.\n\nThe move solves certain puzzles: we can trust our experience of primary qualities because they resemble reality. We cannot read reality off our experience of secondary qualities.\n\nBerkeley will immediately use this distinction as a lever against Locke: if secondary qualities are mind-dependent, what is the argument that primary qualities are not? The question reappears in modern debates about qualia, color perception, and the relationship between physics and phenomenology — still contested."
+    },
+    {
+      "id": "leibniz-monadology",
+      "era": "Enlightenment",
+      "date": "1714",
+      "title": "The Universe Is Made of Windowless Minds — Leibniz's Monadology",
+      "subtitle": "Leibniz argues that reality consists entirely of simple perceiving substances and that mind and body run in preestablished harmony, never actually interacting.",
+      "lede": "Gottfried Wilhelm Leibniz has completed the Monadology — arguing that reality consists entirely of simple, indivisible spiritual substances, and that mind and body never actually interact.",
+      "body": "Extended matter, Leibniz argues, is infinitely divisible — cut any portion in two, and both halves are still extended. Nothing genuinely simple can be found in it. But the universe must contain simples, or it contains nothing real. These simples cannot be material. They must be perceivers — monads, each a kind of mind reflecting the entire universe from its own point of view.\n\nThe monad has no windows. Nothing enters it from outside; nothing leaves it. Its entire history of perceptions unfolds from within, according to an internal law. Yet the unfolding of any one monad corresponds perfectly to every other — because God established this harmony in advance, as one might synchronize two perfect clocks.\n\nMind and body do not interact. They run in preestablished parallel.\n\nLeibniz introduces \"petites perceptions\" for impressions too faint to reach consciousness — sub-threshold mental content that influences experience without awareness. This will become, in the nineteenth century, the concept of the unconscious. The question of what happens below the threshold of awareness leads directly from Leibniz through Herbart to Freud."
+    },
+    {
+      "id": "berkeley-new-theory-vision",
+      "era": "Enlightenment",
+      "date": "1709",
+      "title": "We Learn to See in Three Dimensions — Berkeley on Depth Perception",
+      "subtitle": "George Berkeley argues that the perception of distance is not given directly by the eye but constructed from experience of moving through and touching the world.",
+      "lede": "George Berkeley, a young Irish clergyman, has published a new theory arguing that the perception of distance is not given directly by the eye but is learned through experience of moving through the world.",
+      "body": "The problem of depth has troubled students of vision for decades. The retinal image is flat — no distance is encoded in it. Yet we perceive the world in three dimensions, immediately and effortlessly. How?\n\nBerkeley's answer is that distance is never seen — it is inferred. The visual cues we use — convergence of the eyes, angle of sight, apparent size — are not intrinsically connected to distance. We learn, through repeated experience of moving toward objects and touching them, that certain visual patterns correlate with certain tactile outcomes. Depth perception is a habitual inference drawn from a lifetime of exploring the world with hands and feet.\n\nThe argument is strictly empiricist: the three-dimensional world is constructed by experience, not delivered by the eye.\n\nThis claim will receive its sharpest test when researchers study patients whose congenital cataracts are removed in adulthood — and who cannot perceive depth until they learn to. Modern developmental work on binocular disparity will complicate Berkeley's picture, but his core insight — that much of perception is acquired — survives as a live position."
+    },
+    {
+      "id": "berkeley-esse-est-percipi",
+      "era": "Enlightenment",
+      "date": "1710",
+      "title": "To Be Is to Be Perceived — Berkeley Abolishes the Material World",
+      "subtitle": "Berkeley's Principles of Human Knowledge proposes that matter does not exist independently of minds, solving the problem of perception by eliminating its external source.",
+      "lede": "George Berkeley's Principles of Human Knowledge proposes that matter does not exist independently of minds — that the esse of every thing is percipi, to be perceived.",
+      "body": "Berkeley begins from Locke's own concession. Locke admitted that secondary qualities — color, sound, taste — are mind-dependent. Berkeley asks: what is the argument that primary qualities are different? Solidity requires a solid sensation; extension cannot be conceived apart from a mind imagining it. Every attempt to conceive of a world without minds reveals that the conceiver has simply placed himself there, imagining it.\n\nThe conclusion is startling but, Berkeley insists, liberating. There is no mysterious material substance underlying appearances. The world is exactly as it appears — but it appears only to minds. Objects persist when no human perceives them because God continuously perceives them.\n\nThe senses, given directly by God, are trustworthy precisely because there is no intervening material world to distort them.\n\nHume will take Berkeley's arguments and strip away the Godly guarantee — producing a skepticism more radical than either man intended. The cascade from Locke through Berkeley to Hume will end, according to Kant, in threatening the very possibility of knowledge, requiring the critical philosophy as the only adequate response."
+    },
+    {
+      "id": "hume-causality-habit",
+      "era": "Enlightenment",
+      "date": "1739",
+      "title": "Cause and Effect Are Habits of Mind, Not Features of the World",
+      "subtitle": "David Hume's Treatise argues that the idea of necessary connection is never observed but only expected — a habit the mind projects onto experience from repeated conjunction.",
+      "lede": "David Hume, a Scotsman of twenty-eight, has published A Treatise of Human Nature — arguing that the idea of causality is not derived from observation but is an expectation the mind projects onto experience.",
+      "body": "Watch a billiard ball strike a second: you see the first ball move, contact, and the second ball move. You do not observe any necessary connection compelling the second ball to respond. You infer necessity from the habit of watching the same sequence repeat.\n\nHume pushes the argument systematically. All our ideas, he maintains, are derived from impressions — sensory experiences. The idea of causality claims necessity: the effect must follow the cause. But no impression of necessity is ever given. What is given is constant conjunction: A and B have always appeared together. From this regularity, the mind develops a habit of expectation.\n\nThe conclusion destabilizes natural science. If causality is psychological habit rather than a feature of the world, then the laws of physics are generalizations from past experience, not guarantees about the future.\n\nKant will call this the thing that woke him from his dogmatic slumber. The response he constructs — locating space, time, and causality as structures the mind imposes on experience — will become the most ambitious theory of the knowing mind that philosophy has produced."
+    },
+    {
+      "id": "hume-bundle-self",
+      "era": "Enlightenment",
+      "date": "1739",
+      "title": "No Unified Self — Hume Finds Only a Bundle of Perceptions",
+      "subtitle": "Hume's Treatise declares that what we call the self is nothing but a stream of distinct perceptions — no unified, persisting 'I' can be found anywhere in experience.",
+      "lede": "In a passage of the Treatise already attracting sharp controversy, Hume declares that what we call the self is nothing but a bundle of distinct perceptions — no unified, persisting 'I' exists.",
+      "body": "The test is simple. Enter most intimately into what you call yourself and you stumble on heat or cold, light or shade, love or hatred — some particular perception or other. You never catch yourself without a perception. There is no moment when a bare, naked self is observed apart from its contents.\n\nHume concludes that the self is not a substance but a bundle — a collection of perceptions succeeding each other rapidly, held together by memory and the relations of resemblance and causation we discover among them.\n\nThe personal identity we feel so certain of is, in Hume's account, a kind of fiction — a narrative the mind constructs to make sense of its own flickering contents. He admits in the appendix that he is not satisfied with his own solution.\n\nBuddhist scholars who encounter these pages will note the resemblance to the doctrine of anatta — no-self. The resemblance is not coincidental: both traditions are doing philosophy of mind, and careful introspection tends toward similar conclusions. William James will revisit the problem and find it equally resistant to resolution."
+    },
+    {
+      "id": "kant-critique-pure-reason",
+      "era": "Enlightenment",
+      "date": "1781",
+      "title": "Kant's Critique — The Mind Does Not Mirror the World; It Makes It",
+      "subtitle": "After eleven years of silence, Kant publishes the Critique of Pure Reason, arguing that space, time, and causality are structures the mind brings to experience, not features it finds there.",
+      "lede": "Immanuel Kant, after eleven years of silence, has published the Critique of Pure Reason — arguing that the mind actively structures all experience through forms and categories it brings to, rather than derives from, the world.",
+      "body": "Hume's problem: if all knowledge comes from experience, and experience never shows us necessary connection, then science rests on nothing but habit. Kant finds this intolerable and argues that Hume has the relationship backwards. Space and time are not features of the world perceived: they are the forms through which the mind perceives anything at all. Causality is not a pattern in nature: it is a category the understanding applies before any experience can be registered.\n\nThe Copernican turn in philosophy — Kant names it himself — is to stop asking how the mind adjusts to the world and start asking how the world as experienced is structured by the mind. Objects must conform to our faculties; otherwise we could not have the certain, necessary knowledge that mathematics and physics possess.\n\nThe price is a permanent barrier: we can know the world as it appears to minds equipped like ours, but never the thing-in-itself.\n\nExperimental psychologists a century later will be compelled to engage directly: can Kant's innate structures be measured? The question will drive the entire research program of gestalt psychology."
+    },
+    {
+      "id": "hartley-vibrations",
+      "era": "Enlightenment",
+      "date": "1749",
+      "title": "Memory Lives in Nerve Vibrations — Hartley's Mechanical Theory of Mind",
+      "subtitle": "David Hartley's Observations on Man grounds the laws of mental association in the physical vibrations of nerves and brain — the first attempt to give associationism a physiological substrate.",
+      "lede": "David Hartley, an English physician, has published Observations on Man — the first systematic attempt to ground the laws of mental association in the physical vibrations of nerves and brain.",
+      "body": "Hartley credits Newton. If vibrations of particles underlie sound and light, why not thought? The brain and nerves, he proposes, are capable of very small vibrations — \"vibratiuncles\" in his coinage — that linger after a stimulus is removed and leave traces available for later revival.\n\nThe laws of association are well-known since Aristotle: ideas connected in experience tend to revive together. Hartley's novelty is to propose a physical substrate. Two simultaneously vibrating loci in the brain, excited often enough together, come to excite one another — producing the experience of associated ideas. Memory is not a mental operation hovering above the physical; it is a physical disposition in neural tissue.\n\nThe metaphysics is firmly materialist, which Hartley, a clergyman, works hard to reconcile with religious belief.\n\nJames Mill will inherit the associationist program without the vibration theory. The physiological speculation will return, transformed, when nineteenth-century physiologists begin measuring what Hartley could only imagine: actual electrical events in actual neural tissue. Hebb's rule — neurons that fire together wire together — is Hartley's vibratiuncle restated in the language of neurochemistry."
+    },
+    {
+      "id": "la-mettrie-homme-machine",
+      "era": "Enlightenment",
+      "date": "1748",
+      "title": "L'Homme Machine — Humans Are Automata, Says a Fugitive French Physician",
+      "subtitle": "La Mettrie publishes his scandalous argument that humans differ from Descartes's animal machines only in degree, not in kind — and flees Holland before the book is burned.",
+      "lede": "Julien Offray de La Mettrie, a French physician, has published L'Homme Machine in Holland after expulsion from France — arguing that humans differ from Descartes's animal automata only in degree, not in kind.",
+      "body": "Descartes made animals machines. He exempted humans because of the soul and the capacity for true language. La Mettrie removes the exemption. If animal behavior can be explained mechanically — reflexes, sensations, movements without a soul — then the same explanation applies to humans. The difference is not categorical but one of complexity and brain size.\n\nHis evidence is medical. High fever alters the personality radically — add heat to the brain and the whole mind changes. Opium produces particular mental states; diseases produce others. The mind is so clearly dependent on the body that its separate existence is untenable.\n\nThe book was burned in Holland. La Mettrie escaped to the court of Frederick the Great of Prussia, one of the few European rulers capable of offering shelter to a thoroughgoing materialist.\n\nThe argument will be resurrected in every generation: whenever neuroscience advances, someone points out that La Mettrie said it first. His cheerful, unrepentant materialism remains one of the most scandalous texts in the history of psychology — and one of the most prophetic."
+    },
+    {
+      "id": "condillac-marble-statue",
+      "era": "Enlightenment",
+      "date": "c. 1754",
+      "title": "The Marble Statue — Condillac Builds an Entire Mind From a Single Sensation",
+      "subtitle": "Condillac's animated statue thought experiment shows how one sense at a time could generate attention, memory, desire, and reason without a single innate idea.",
+      "lede": "Étienne Bonnot de Condillac has proposed a thought experiment that will become one of philosophy's most discussed: imagine a statue with no mental life, then open one sense at a time and watch an entire mind assemble itself.",
+      "body": "The statue begins with nothing. Grant it the sense of smell alone — say, a rose is held before its nostrils. The statue now has an experience. That experience is either pleasant or unpleasant. If pleasant, the statue attends to it and desires its return. When the rose is withdrawn, the trace that remains is memory. When a different smell arrives, the statue compares them — and thus has judgment.\n\nAdd the remaining senses one by one and the entire structure of mental life assembles itself: attention, memory, imagination, desire, comparison, judgment, will. All complex mental operations are transformed sensations.\n\nNo innate ideas are required. No faculty of reason separate from sense. Locke said the mind begins blank and experience fills it; Condillac pushes further: experience does not merely fill the mind, it constitutes it.\n\nThe statue thought experiment will influence the Idéologues of the French Revolution, who will argue that human nature is indefinitely plastic and that a rational society can, by controlling education and environment, produce rational citizens — a claim Pavlov will attempt to demonstrate experimentally in the following century."
+    },
+    {
+      "id": "cabanis-guillotine",
+      "era": "Enlightenment",
+      "date": "1796",
+      "title": "Does the Severed Head Feel? Cabanis at the Guillotine",
+      "subtitle": "Pierre Cabanis argues that guillotined heads show only spinal reflexes, not consciousness — and declares that thought is a secretion of the brain, as bile is a secretion of the liver.",
+      "lede": "Pierre-Jean-Georges Cabanis, physician to the Revolutionary tribunals, has published observations arguing that convulsive movements of guillotined heads are spinal reflexes, not signs of consciousness — and that thought is a function of the brain alone.",
+      "body": "The guillotine poses an urgent scientific question alongside its political ones. When an executed head's eyes move, or the face grimaces, is anyone still inside? Surgeons and physicians have debated it in committee.\n\nCabanis argues consistently: such movements are spinal reflex, not cerebral response. The brain, severed from the body, cannot sustain consciousness longer than the few seconds before its blood supply fails.\n\nBehind this specific question stands a larger claim. The brain secretes thought, Cabanis argues, as the liver secretes bile. Mind is a function of organized matter — no more and no less. The soul cannot survive death because it was never separate from the organ that produced it.\n\nThe formulation — the brain secretes thought — will become the rallying cry and the reductio of nineteenth-century materialism. Vogt and Moleschott will repeat it; Virchow and the idealists will attack it. The guillotine has posed a question that medicine and philosophy will argue for another century before neuroscience begins to provide tools adequate to answer it."
+    },
+    {
+      "id": "maskelyne-kinnebrook",
+      "era": "Enlightenment",
+      "date": "c. 1796",
+      "title": "The Astronomer's Assistant Is Fired — for Seeing Half a Second Too Late",
+      "subtitle": "Nevil Maskelyne dismisses his assistant for recording transit times consistently behind his own — a discrepancy later recognized as the first documented case of individual differences in perception.",
+      "lede": "Nevil Maskelyne, Astronomer Royal at Greenwich, has dismissed his assistant David Kinnebrook for recording stellar transit times that consistently differ from his own — a disagreement later recognized as the first documented observation of individual differences in perception.",
+      "body": "The business of the Greenwich Observatory is timing. Stars cross the meridian at predictable moments; the assistant's job is to record the precise second. Kinnebrook's times have differed from Maskelyne's by as much as half a second — consistently, not randomly. Maskelyne, attributing the discrepancy to inattention or incompetence, has let Kinnebrook go.\n\nThe case might have ended there, forgotten in the observatory's records. Twenty years later, Friedrich Bessel will read the account and recognize what Maskelyne missed: that neither observer was wrong. Different individuals, equally trained and equally attentive, record the same event at systematically different times. The difference is not error — it is a stable property of the individual.\n\nBessel will call this the personal equation and spend years measuring it across pairs of observers. The implication reaches far beyond astronomy: observation is not neutral; the observer is part of the measurement.\n\nThe case will be cited by Galton when he argues that psychology must become a science of individual differences — and will be seen as the observation that made differential psychology possible."
+    },
+    {
+      "id": "whytt-frog-reflexes",
+      "era": "Enlightenment",
+      "date": "1751",
+      "title": "Headless Frogs Still Respond — Whytt Locates the Reflex in the Spinal Cord",
+      "subtitle": "Robert Whytt demonstrates that a frog deprived of its brain will still withdraw its leg from acid, proving that the spinal cord alone can produce coordinated protective responses.",
+      "lede": "Robert Whytt, physician in Edinburgh, has published experiments showing that a frog deprived of its brain still withdraws its leg from an irritant — proving that spinal tissue alone is sufficient to produce coordinated protective responses.",
+      "body": "The demonstration is clean. Remove the frog's brain and the animal ceases to behave spontaneously. Apply acid to one leg and the leg withdraws — specifically, purposively, just as it would in an intact animal. The withdrawal occurs without a brain, without any conceivable center of sensation or will.\n\nWhytt acknowledges the difficulty this poses for received opinion. He attributes the response to a \"sentient principle\" distributed through the spinal cord — not soul in any theological sense, but something more than mechanical spring-and-lever. He will not commit to pure mechanism.\n\nHis contemporaries are less cautious. If the reflex requires no brain, no soul, no vital force — only organized neural tissue — then the boundary between life and mechanism has been moved inward. What remains inside that boundary?\n\nThe reflex arc, refined by Bell, Magendie, and Hall in the following century, will become the fundamental unit of behavioral explanation. Pavlov will build an entire psychology out of it. The headless frog in Edinburgh opened the door through which one of psychology's most powerful frameworks would eventually walk."
+    },
+    {
+      "id": "bell-sensory-motor-nerves",
+      "era": "19th Century",
+      "date": "1811",
+      "title": "Two Kinds of Nerve — Bell's Private Discovery Changes Neuroscience",
+      "subtitle": "Charles Bell prints a pamphlet of only a hundred copies arguing that the spinal cord's roots carry sensation and motion through separate channels — quietly founding the Bell-Magendie Law.",
+      "lede": "Charles Bell, a London anatomist, has printed a pamphlet of only a hundred copies — for private circulation — arguing that the roots of the spinal cord are divided into sensory and motor functions.",
+      "body": "The common assumption has been that nerves are all alike: they carry signals both to and from the brain, sensation and motion sharing the same fibres. Bell's anatomical work suggests otherwise. The dorsal roots, entering the back of the cord, he associates with sensation; the ventral roots, exiting the front, with movement. One set carries signals inward; the other carries commands outward.\n\nBell has not published in a journal or submitted to a learned society. The pamphlet, run off in a private edition of a hundred copies, reflects both intellectual caution and reluctance to invite immediate controversy.\n\nThe caution will prove costly. Within eleven years, François Magendie in Paris will publish essentially the same finding — with actual experimental evidence rather than anatomical inference — and the resulting priority dispute will embitter both nations' scientific establishments for decades.\n\nWhat both men will have established, regardless of who said it first, is one of the most important structural principles in neuroscience: that the nervous system's inputs and outputs run in anatomically separate channels — a foundation for every subsequent map of the nervous system."
+    },
+    {
+      "id": "magendie-bell-law",
+      "era": "19th Century",
+      "date": "1822",
+      "title": "Magendie Cuts the Spinal Roots — and a Priority War Erupts Between London and Paris",
+      "subtitle": "François Magendie publishes experimental proof of the sensory-motor division of the spinal cord, immediately triggering a fierce dispute with Charles Bell over who discovered it first.",
+      "lede": "François Magendie has published experimental proof that the spinal cord's dorsal roots carry sensation and its ventral roots carry motion — a finding Bell claims to have made first, and the dispute is already turning acrimonious.",
+      "body": "Magendie's experiments are direct. He cuts the dorsal root of a spinal nerve in a living animal and tests for sensation; he cuts the ventral root and tests for movement. The dissociation is complete. The distinction Bell drew anatomically, Magendie has confirmed experimentally.\n\nThe trouble is Bell's pamphlet, printed in 1811 but little circulated. Bell insists he demonstrated the principle eleven years earlier. Magendie replies that an obscure private document is not scientific priority — publication in open literature is. The Royal Society takes Bell's side; Paris takes Magendie's.\n\nThe acrimony will persist for decades. But the law itself is secure. Sensory and motor functions are anatomically separated in the spinal cord.\n\nThe principle that nervous-system function can be dissociated and localized — established here at the cord — will within forty years be applied to the brain itself. Broca's 1861 paper on the speech region follows directly from the localization tradition this dispute, however bitterly, helped establish."
+    },
+    {
+      "id": "gall-organology",
+      "era": "19th Century",
+      "date": "c. 1810",
+      "title": "Gall's Skull Map — Bumps on the Head Reveal the Mind Within",
+      "subtitle": "Franz Gall claims that distinct mental faculties occupy specific brain regions and that the skull's contours faithfully reflect the brain's development — founding the doctrine of organology.",
+      "lede": "Franz Joseph Gall, a Viennese physician now practicing in Paris, has developed a doctrine that distinct mental faculties are located in specific brain regions — and that the skull's surface reflects the underlying brain's development.",
+      "body": "Gall began with a schoolboy observation: the boys best at memorizing texts tended to have prominent eyes. He asked whether the brain organ for verbal memory might push forward from behind the eye sockets, producing the bulge. From this odd starting point he built a system of twenty-seven — eventually thirty-five — distinct organs of the mind, each locatable on the cortical surface.\n\nThe method was observation. Gall examined the heads of criminals, the insane, the exceptionally talented, and the conspicuously defective, comparing skull contours with behavior. His anatomical knowledge was genuine; his discoveries of white matter structure and the pyramidal decussation are still credited to him.\n\nBut the leap from anatomy to skull-reading rests on an undemonstrated assumption: that skull contours faithfully reflect cortical development underneath.\n\nFlourens, working with birds and rabbits in the laboratory, will shortly provide direct evidence against localization of this kind. But the popular appetite for a map of the mind is vast, and Spurzheim's rebranding of Gall's system as phrenology will take the doctrine to an audience no laboratory refutation can easily reach."
+    },
+    {
+      "id": "spurzheim-phrenology",
+      "era": "19th Century",
+      "date": "c. 1815",
+      "title": "Phrenology Arrives — Spurzheim Rebrands the Skull Map and Takes It on Tour",
+      "subtitle": "Johann Spurzheim renames organology 'phrenology,' softens its darker faculties, and begins lecturing across Europe to audiences eager for a science of character improvement.",
+      "lede": "Johann Spurzheim, Gall's former collaborator and now his rival, has renamed organology 'phrenology,' expanded the faculty list, and begun lecturing across Europe and Britain to audiences eager for a science of character.",
+      "body": "The split between Gall and Spurzheim is partly terminological and partly moral. Gall's system was darker — his faculties included destructiveness and amativeness without apology, and he drew freely on criminal material. Spurzheim has softened the doctrine, renamed unpleasant faculties, and insisted that phrenology is a programme of self-improvement: knowing your cranial weaknesses, you can exercise the corresponding organs through use.\n\nThe reform language resonates. In Edinburgh, George Combe will make phrenology the basis of a secular social philosophy. In America, the Fowler brothers will sell phrenological readings from parlors in every major city. Phrenology will be used to screen domestic servants, evaluate criminal defendants, and assess candidates for marriage.\n\nThe science beneath it is weak. Flourens's ablation experiments in animals are already showing that no simple faculty localization holds. But Spurzheim's packaging is brilliant, and phrenology's popular reach will sustain the idea — even after its specific claims are refuted — that character can be read from physical features. The prejudice will prove persistent and dangerous, long outlasting the theory that generated it."
+    },
+    {
+      "id": "flourens-extirpation",
+      "era": "19th Century",
+      "date": "c. 1824",
+      "title": "Flourens Cuts Into the Brain and Finds No Organs — Only a Whole",
+      "subtitle": "Pierre Flourens's ablation experiments on birds and rabbits directly contradict the phrenologists, showing the cerebrum acts as a unified whole, not a mosaic of separate faculties.",
+      "lede": "Pierre Flourens, a young French physiologist, has published ablation experiments on birds and rabbits that directly contradict the phrenologists — the cerebrum, he concludes, acts as a unified whole, not a mosaic of separate faculties.",
+      "body": "The method is ablation: remove a portion of cortex and observe what is lost. If Gall and Spurzheim are correct, removing a specific region should eliminate the corresponding faculty while leaving others intact. What Flourens finds is different. Remove successive slices of cerebral cortex and all functions — sensation, movement, and volition — weaken together and together eventually disappear. They do not drop out selectively.\n\nFrom this he concludes that the cerebral hemispheres act as an equipotent whole. No faculty has a specific address. The mind, in so far as the cerebrum represents it, is everywhere and nowhere in particular.\n\nThe cerebellum is different — Flourens's pigeons with cerebellar damage lose coordination while retaining perception — and the brainstem governs vital functions. But the cerebrum, the seat of intellect, is unitary.\n\nFlourens's conclusion will hold for thirty years. Broca's 1861 examination of a patient who lost speech after a single precisely located lesion will overturn it — and the debate between localization and holism will resume, carrying on into the era of brain imaging, never quite resolved."
+    },
+    {
+      "id": "galvani-animal-electricity",
+      "era": "Enlightenment",
+      "date": "1791",
+      "title": "A Frog Leg Twitches — Galvani Discovers Animal Electricity",
+      "subtitle": "Luigi Galvani's Bologna experiments show that metallic contact causes dead frog muscles to contract, opening the investigation of electrical forces in living tissue.",
+      "lede": "Luigi Galvani, a Bologna anatomist, has published an account of an extraordinary finding: that metallic contact causes the leg muscles of a dead frog to contract — evidence, he believes, of electricity inherent in animal tissue.",
+      "body": "The discovery, Galvani reports, was partly accidental. A frog leg prepared on a table near an electrostatic machine twitched when a scalpel touched the nerve — even when the machine was not in direct contact. Further experiments, suspending frog legs from iron railings with copper hooks during thunderstorms, confirmed that atmospheric electricity could produce muscular contractions.\n\nGalvani's interpretation is that the contraction reveals intrinsic animal electricity, stored in the muscle and nerve the way a Leyden jar stores charge.\n\nAlessandro Volta will dispute this interpretation, arguing that the electricity is generated by the contact of two different metals, not by the tissue itself. He will be right about the mechanism — and the dispute will drive Volta to invent the first chemical battery.\n\nGalvani will be vindicated in broader terms. DuBois-Reymond's work fifty years later will confirm that nerves do carry electrical currents. The frog leg twitch that startled a Bologna anatomist is the first observation in the history of neurophysiology, and the lineage from it runs directly to modern electrode recordings and brain imaging."
+    },
+    {
+      "id": "bessel-personal-equation",
+      "era": "19th Century",
+      "date": "1823",
+      "title": "Friedrich Bessel Quantifies What Makes You Different From Me",
+      "subtitle": "Bessel's systematic study of timing differences between astronomical observers demonstrates that individual variation in perception is real, stable, and measurable.",
+      "lede": "Friedrich Bessel, director of the Königsberg Observatory, has published a systematic study of timing differences between pairs of astronomical observers — demonstrating that individual variation in perception is real, stable, and measurable.",
+      "body": "The story begins in Greenwich. Bessel read of Maskelyne's dismissal of his assistant Kinnebrook for recording stellar transit times half a second behind his employer's. Bessel realized that neither need have been at fault. If the difference is stable and replicable, it may be an intrinsic property of each observer — not a deficiency of either.\n\nHe tested this by comparing his own transit times against those of his colleague Walbeck: a consistent discrepancy of 1.041 seconds emerged. He then compared himself against Argelander — a different discrepancy, again consistent across sessions. The personal equation, as Bessel names it, varies from pair to pair but is stable within any pair over time.\n\nThe consequence for astronomy is practical: correction constants can be computed and applied. The consequence for psychology is larger: individual differences in perception and reaction exist, they are measurable, and they cannot be explained away by appeals to attention or training.\n\nGalton will later make individual differences the subject of an entire science. Bessel, measuring star transits in Königsberg, founded it — demonstrating that the observer is always part of the observation."
+    },
+    {
+      "id": "donders-reaction-time",
+      "era": "19th Century",
+      "date": "1868",
+      "title": "Donders Times a Mental Decision — and Opens Cognitive Chronometry",
+      "subtitle": "F.C. Donders shows that the time taken to make a mental choice can be isolated by subtracting a simple reaction time from a complex one — the first measurement of a mental operation.",
+      "lede": "F.C. Donders, a Dutch ophthalmologist, has published a paper arguing that the time taken to make a mental choice can be isolated and measured by subtracting a simple reaction time from a more complex one.",
+      "body": "The method rests on a subtraction principle. Measure how long it takes a subject to respond to a signal with a pre-specified movement — this is the simple reaction time, capturing sensory detection and motor response. Then require the subject to choose between two signals and two responses — this is the choice reaction time. The difference between them, Donders argues, isolates the time occupied by the decision itself.\n\nHis measurements yield decision times of roughly one-tenth to one-twentieth of a second — small, but clearly non-zero. The mental act of choosing has a temporal extent. It can be timed.\n\nHelmholtz had already shown that nerve conduction takes time; Donders shows that cognition does too. The gap between stimulus and response is not empty — it is full of measurable mental work.\n\nCritics will later question whether mental processes can be cleanly subtracted from one another. But the basic program — inferring mental architecture from response time differences — becomes the engine of cognitive psychology. Every reaction-time experiment run in the twentieth century owes Donders the blueprint."
+    },
+    {
+      "id": "newton-light-spectrum",
+      "era": "Enlightenment",
+      "date": "1672",
+      "title": "Newton's Prism Reveals the Rainbow Hidden in White Light",
+      "subtitle": "Isaac Newton reports to the Royal Society that white light is not pure but a mixture of all colors, each bent to a different degree by a glass prism.",
+      "lede": "Isaac Newton has communicated to the Royal Society the results of his prism experiments, arguing that white light is not pure but a mixture of all colors, each refracted to a different degree.",
+      "body": "The experiment is simple enough to repeat in any room with a south-facing window. Admit a narrow beam of sunlight through a hole in a shutter; interpose a glass prism; observe the elongated spectrum cast on the opposite wall. The colors appear in stable order — red at one end, violet at the other, the full rainbow sequence between.\n\nNewton's interpretation is bold. White light is not primitive. The prism does not color light; it separates colors already present. Each color corresponds to a different degree of refrangibility — what is now called wavelength. A second prism can recombine the spectrum into white light, proving that separation, not creation, was occurring.\n\nRobert Hooke disputes the interpretation and a prolonged argument follows, souring Newton on publication for years.\n\nThe work establishes that the visible spectrum is physically structured and that color corresponds to objective properties of light, not merely qualities added by the perceiving mind. Young and Helmholtz, in the following century, will show that the eye responds to this physical structure with three receptor types, connecting the physics and physiology of color vision at last."
+    },
+    {
+      "id": "dalton-color-blindness",
+      "era": "Enlightenment",
+      "date": "1794",
+      "title": "The Natural Philosopher Who Bought Red Stockings for a Quaker Meeting",
+      "subtitle": "John Dalton presents the first systematic description of color blindness — discovered when he purchased what he believed were drab stockings and was informed they were bright scarlet.",
+      "lede": "John Dalton, Manchester chemist and Quaker, has presented to the Literary and Philosophical Society the first systematic description of color blindness — discovered when he purchased what he believed were drab stockings and was informed they were bright red.",
+      "body": "The embarrassment was complete. The stockings, intended for a Quaker meeting where bright color would have been conspicuous, were scarlet. Dalton saw them as a muted, unremarkable color indistinguishable from the drab he had intended.\n\nSurveying his family and colleagues, Dalton found that his brother shared the same peculiarity. Colors that others called red appeared to him as a shade of yellow or brown; he could not reliably distinguish red from green. The deficiency was congenital and appeared to run in families.\n\nDalton theorized that his vitreous humor — the fluid inside the eyeball — was tinted blue-green, absorbing the red end of the spectrum before it reached the retina. He requested his eyes be examined post-mortem. They were: the vitreous humor was perfectly clear. The defect was elsewhere.\n\nYoung and Helmholtz's three-receptor theory will eventually explain color blindness as a deficiency in one receptor type. Dalton's preserved eye tissue, analysed by molecular biologists more than a century after his death, will confirm this through DNA — making him the patient in his own posthumous case study."
+    },
+    {
+      "id": "wheatstone-stereoscope",
+      "era": "19th Century",
+      "date": "1838",
+      "title": "Wheatstone's Stereoscope — Two Eyes See What One Cannot",
+      "subtitle": "Charles Wheatstone presents a device that combines two slightly different flat images into a vivid experience of depth, proving that binocular disparity alone can produce three-dimensional vision.",
+      "lede": "Charles Wheatstone has presented the stereoscope to the Royal Society — a device that combines two slightly different flat images and produces a vivid perception of depth, proving that binocular disparity is a primary cue for three-dimensional vision.",
+      "body": "The device is simple. Each eye views a separate drawing of the same scene from a slightly different angle — the angle corresponding to the separation of the two human eyes. The brain, combining the two flat images, produces an experience of solid, three-dimensional form that neither image alone contains.\n\nThe implication is significant. Depth perception is not merely a matter of monocular cues — shading, perspective, familiar size — that a single eye and a trained mind can evaluate. The two eyes provide an independent source of depth information: the small difference in each eye's view, called binocular disparity, is detected automatically and converted directly into depth.\n\nBerkeley had argued that depth is entirely learned from experience of moving and touching. The stereoscope complicates this. Binocular disparity appears to yield depth without prior learning.\n\nWheatstone's instrument will become a research tool throughout the nineteenth century, a parlor entertainment in the twentieth, and will reappear in digital form as the technology underlying every three-dimensional film and virtual reality headset — carrying Wheatstone's insight, much amplified, into the future."
+    },
+    {
+      "id": "ohm-acoustic-law",
+      "era": "19th Century",
+      "date": "1843",
+      "title": "The Ear Is a Mathematician — Ohm Applies Fourier Analysis to Hearing",
+      "subtitle": "Georg Simon Ohm proposes that the ear decomposes complex sounds into their component pure tones — an acoustic law that Helmholtz will place at the foundation of physiological acoustics.",
+      "lede": "Georg Simon Ohm has proposed that the ear performs Fourier analysis on sound — decomposing complex waveforms into their constituent simple tones — an acoustic law that Helmholtz will later place at the foundation of physiological acoustics.",
+      "body": "A complex sound wave — a violin note, a vowel, a chord — is a mixture of simple sinusoidal components at different frequencies. Ohm's acoustic law states that the ear perceives each such component separately, as a distinct pitch sensation, precisely as Fourier's theorem shows any periodic function can be decomposed into sine waves.\n\nThe claim is not about mathematics but about physiology. The auditory system, Ohm argues, physically resolves complex vibrations into spectral components. What we hear as timbre — the difference in quality between the same note on a violin and on an oboe — is the result of different mixes of harmonics, each heard individually and combined into a whole.\n\nHelmholtz will spend the following decades providing the mechanism: resonant structures in the cochlea, each tuned to a particular frequency, acting as the biological equivalent of a set of tuned strings.\n\nOhm's acoustic law, verified and extended by Helmholtz, becomes the starting point for all subsequent hearing science. The question of how the ear analyzes sound remains productive into the age of neural recording, with the cochlea's tonotopic organization as its answer."
+    },
+    {
+      "id": "gauss-normal-curve",
+      "era": "19th Century",
+      "date": "c. 1809",
+      "title": "Gauss's Curve of Errors Becomes the Shape of Human Measurement",
+      "subtitle": "Carl Friedrich Gauss derives the normal distribution as the optimal law of observational error — providing mathematics with the tool that statisticians will soon apply to human populations.",
+      "lede": "Carl Friedrich Gauss has derived the normal distribution as the optimal law of observational error — providing mathematics with the tool that, within a generation, statisticians will apply to human bodies, minds, and populations.",
+      "body": "Gauss's concern was geodesy and astronomy: when many independent measurements of the same quantity yield different values, what is the best estimate? He derived mathematically that the most likely distribution of errors around the true value follows a bell-shaped curve — the normal distribution — and that the arithmetic mean of all measurements is the optimal estimate of the truth.\n\nThe derivation was elegant and the application immediate. Bessel, comparing observers' star-transit times, was already using the mathematics. Astronomers across Europe adopted the method of least squares as standard practice.\n\nBut the migration into human science was faster than Gauss anticipated. Within decades, Quetelet will demonstrate that human height, chest circumference, and mortality rates follow the same bell curve. The tool Gauss designed to average away observational error will be repurposed to describe natural variation as if variation too were error around some ideal human type.\n\nGalton will apply the same curve to intelligence, reaction time, and sensory acuity, and will derive from it the concept of statistical correlation — transforming Gauss's error law into the mathematical foundation of differential psychology."
+    },
+    {
+      "id": "quetelet-human-statistics",
+      "era": "19th Century",
+      "date": "c. 1835",
+      "title": "Quetelet Discovers the Average Man — and Statistics Enters Human Science",
+      "subtitle": "Adolphe Quetelet shows that the normal curve governs human physical measurements and proposes 'l'homme moyen' as the proper object of social science.",
+      "lede": "Adolphe Quetelet, Belgian astronomer turned social scientist, has shown that the normal curve of errors governs human physical measurements — and has proposed the concept of 'l'homme moyen,' the average man, as science's proper object.",
+      "body": "Quetelet began with data on the chest circumferences of Scottish soldiers — over five thousand measurements — and found that they distributed in a near-perfect bell curve around the mean. He observed the same curve in heights, weights, birth rates, and death rates across populations. The normal distribution, he argued, is not merely a law of measurement error. It is a law of nature applied to human beings.\n\nFrom this he constructed the concept of the average man — not an actual individual but a statistical abstraction representing the center of gravity of a population. Deviations from the average are analogous to errors: nature aims at a type, and individuals are its imperfect attempts.\n\nGalton will reverse this: treating individual variation as the interesting signal rather than noise. But the statistical program itself is founded. Human beings can be described numerically. Social science can be quantitative.\n\nQuetelet's methods, extended by Galton and Fisher, will produce the statistical machinery underlying intelligence tests, psychiatric rating scales, and clinical trials — disciplines he could not have imagined but unmistakably enabled."
+    },
+    {
+      "id": "wohler-urea-synthesis",
+      "era": "19th Century",
+      "date": "1828",
+      "title": "Wöhler Makes Urea in a Flask — Vitalism Cannot Survive the Chemistry",
+      "subtitle": "Friedrich Wöhler synthesises urea from inorganic materials alone, proving that organic compounds need no vital force and setting the stage for a materialist physiology.",
+      "lede": "Friedrich Wöhler, a German chemist, has written to Berzelius with remarkable news: he has synthesised urea — a compound produced by living kidneys — from entirely inorganic starting materials, without any organism or vital force.",
+      "body": "The letter to Berzelius is candid about the shock: \"I can no longer, as it were, hold back my chemical urine; I must tell you that I can make urea without needing a kidney, whether of man or dog.\"\n\nFor decades, chemists had distinguished organic from inorganic compounds on the grounds that organic compounds required a vital force — a principle of life — to produce. Only living organisms, it was held, could make the substances of living organisms. The boundary seemed to guarantee something irreducible about life.\n\nWöhler's synthesis of urea from ammonium cyanate — two inorganic salts — crosses that boundary without special pleading. If a kidney compound can be produced in a flask, then organic chemistry is chemistry, subject to the same laws as the inorganic world.\n\nThe implications extend beyond chemistry. If the chemistry of life requires no vital force, why should the physiology of thought? The materialist program in psychology — from DuBois-Reymond's manifesto to the twentieth-century neurosciences — gathers force from Wöhler's flask."
+    },
+    {
+      "id": "dubois-reymond-manifesto",
+      "era": "19th Century",
+      "date": "1842",
+      "title": "Four Students of Müller Sign a Pact — Only Physics and Chemistry in Living Organisms",
+      "subtitle": "DuBois-Reymond, Brücke, Helmholtz, and Ludwig make an informal compact to eliminate vitalism from physiology, admitting only physical and chemical forces as explanations of life.",
+      "lede": "Emil DuBois-Reymond, Ernst Brücke, Hermann Helmholtz, and Carl Ludwig — students of Johannes Müller in Berlin — have made a compact to eliminate vitalism from physiology by admitting only physical and chemical forces as explanations of life.",
+      "body": "The agreement is not published. It is reported in correspondence and remembered in memoirs. Four young physiologists, gathered around Germany's most eminent biologist, have decided that their teacher's hesitations about mechanism must be overcome. Müller himself acknowledged that the properties of living matter were puzzling and perhaps not fully reducible to physics. His students are not so cautious.\n\nDuBois-Reymond, who will spend decades measuring the electrical properties of nerves, is the most forceful. Brücke will become a professor in Vienna where, decades later, one of his medical students — Sigmund Freud — will write a Project for a Scientific Psychology attempting to reduce mental processes to neural mechanisms. Helmholtz will measure the speed of the nerve impulse and establish perceptual science on a physiological foundation.\n\nThe pact has no founding document, but it has founding energy. The materialist physiologists of the 1840s will transform the study of the nervous system within a generation. The question of whether the mind itself is among the phenomena they promised to explain will never quite close — and each decade offers a new attempt to answer it."
+    },
+    {
+      "id": "broca-speech-center",
+      "era": "19th Century",
+      "date": "1861",
+      "title": "Broca's Patient — a Lesion on the Left Frontal Lobe and a Lost Word",
+      "subtitle": "Paul Broca presents a case that challenges Flourens's holism directly: a man who lost nearly all speech after damage confined to a small region of the left frontal cortex.",
+      "lede": "Paul Broca has presented to the Société d'Anthropologie a case that challenges Flourens's holism directly: a patient who lost nearly all speech after damage limited to a small region of the left frontal cortex.",
+      "body": "The patient, known as Tan for the only syllable he could produce, had been in the Bicêtre hospital for twenty-one years. He understood language but could not produce it. His right-sided paralysis and preserved comprehension indicated a specific deficit.\n\nWhen Tan died, Broca examined the brain immediately. The damage was localized to the posterior portion of the left inferior frontal gyrus. Other cortical regions were largely intact. If Flourens were right — if the cortex acts as a whole — a lesion this circumscribed should not produce so specific a deficit.\n\nBroca presented eight similar cases over the following years. The lesions clustered consistently in the same location. He noted, with some caution, that all were left-hemisphere lesions — raising the possibility that language is not only localized but lateralized.\n\nThe region will bear his name. The finding reopens the localization debate that Flourens appeared to have closed, and launches the neurological tradition of inferring function from deficit — a method still central to cognitive neuroscience a century and a half later."
+    },
+    {
+      "id": "fritsch-hitzig-cortex",
+      "era": "19th Century",
+      "date": "1870",
+      "title": "Current to the Cortex — Fritsch and Hitzig Map the Motor Brain",
+      "subtitle": "Gustav Fritsch and Eduard Hitzig show that mild electrical stimulation of specific cortical points produces contralateral muscle contractions, proving the motor cortex is real and somatotopically organized.",
+      "lede": "Gustav Fritsch and Eduard Hitzig have published experiments showing that applying mild electrical current to specific points on the exposed cerebral cortex produces specific muscular contractions on the opposite side of the body.",
+      "body": "The experiments were conducted partly on Hitzig's dressing table. The two physiologists, lacking adequate laboratory space, used what was available. Exposing the cortex of a lightly anaesthetized dog, they applied galvanic current through fine electrodes to specific cortical points.\n\nThe result was unambiguous. Stimulation at one location produced movement of the contralateral forelimb. A slightly different location produced hindlimb movement. Another produced facial contraction. When they removed cortical tissue and stimulated again, the corresponding movement could not be evoked. The excised point was the necessary site.\n\nTwo conclusions follow. First, the cortex is electrically excitable — contrary to the view held by some prominent physiologists. Second, the excitable cortex is somatotopically organized: different regions control different body parts on the opposite side.\n\nThe motor cortex, as mapped by Fritsch and Hitzig, will be refined by Ferrier, extended by Sherrington, and eventually charted in full by Wilder Penfield — who will produce the homunculus, a distorted self-portrait of the body drawn in cortical territory."
+    },
+    {
+      "id": "james-mill-analysis",
+      "era": "19th Century",
+      "date": "1829",
+      "title": "James Mill Reduces the Mind to a Machine of Ideas",
+      "subtitle": "James Mill's Analysis is the most uncompromising associationist psychology yet written, reducing all mental life to the mechanical combination of simple sensations by the single law of contiguity.",
+      "lede": "James Mill has published his Analysis of the Phenomena of the Human Mind — the most uncompromising associationist psychology yet written, reducing all mental life to the mechanical combination of simple sensations.",
+      "body": "The Analysis is deliberately stripped of ornament. Mill's purpose is to show that every mental phenomenon — emotion, judgment, volition, reasoning — is nothing but sensations and ideas combined by the one law of contiguity: things experienced together become associated, and association strength depends on frequency of co-occurrence.\n\nHe dismisses Aristotle's laws of similarity and contrast as reducible to contiguity. He dismisses mental chemistry — the idea that combinations of simpler elements might yield genuinely new properties. The whole is nothing but the sum of its parts.\n\nThe system provoked his son John Stuart into a famous rebellion. The elder Mill had educated his son on this very doctrine; the son found it inadequate to explain his own emotional experience and nervous breakdown.\n\nThe younger Mill's response — mental chemistry — and Spencer's evolutionary elaboration will transform the associationist tradition. But its founding demand — that psychology account for the complex in terms of the simple — will persist through behaviorism into connectionism and computational cognitive science, each of which attempts to explain mental complexity from elementary operations."
+    },
+    {
+      "id": "john-stuart-mill-chemistry",
+      "era": "19th Century",
+      "date": "c. 1843",
+      "title": "Mental Chemistry — John Stuart Mill Argues the Mind Makes Something New",
+      "subtitle": "John Stuart Mill proposes that when ideas combine they can yield genuinely new properties — anticipating the gestalt psychologists' claim that the whole is more than the sum of its parts.",
+      "lede": "John Stuart Mill has proposed that when simple ideas combine, they can produce genuinely new properties — as hydrogen and oxygen combine to produce water, which is wet in a way that neither element alone is.",
+      "body": "The argument is directed against his father. James Mill insisted that complex ideas are simply the sum of their simple parts — association is additive, mechanical, nothing new generated. His son, working through his own recovery from mental collapse, disagrees.\n\nThe analogy is chemical. Hydrogen is not wet. Oxygen is not wet. Water is wet — a property that could not have been predicted from the properties of the components alone. Mental compounds, Mill argues, may be similarly emergent. The qualities of complex mental states need not be present in or predictable from their simpler constituents.\n\nThis principle of \"mental chemistry\" — against his father's \"mental mechanics\" — anticipates the gestalt psychologists' insistence, seventy years later, that the whole is more than the sum of its parts. Wertheimer and Köhler will use precisely this argument against the atomism of both classical associationism and Wundt's compound-sensation psychology.\n\nThe genealogy leads from Mill's chemical metaphor directly to Berlin in the early twentieth century — and to the debate, still live in cognitive science, about whether cognition is compositional or holistic."
+    },
+    {
+      "id": "spencer-evolutionary-assoc",
+      "era": "19th Century",
+      "date": "1855",
+      "title": "Spencer's Evolutionary Psychology — Instincts Are the Ancestral Memories of the Race",
+      "subtitle": "Herbert Spencer argues that mental associations built up across generations become innate instincts through heredity, placing psychology inside evolutionary history.",
+      "lede": "Herbert Spencer has published Principles of Psychology — arguing that mental associations built up across generations become, through heredity, the innate instincts and reflexes of their descendants.",
+      "body": "Spencer published his Principles four years before Darwin's Origin. The evolutionary framework he uses is Lamarckian: habits formed repeatedly during a lifetime can be inherited. Individual experience gradually sediments into species-level structure.\n\nThe argument solves a problem the associationists faced. Locke's blank slate cannot explain why newborn lambs flee wolves before any learning. Spencer's answer: the lamb's ancestors fled wolves so consistently, for so many generations, that the association became heritable and is now expressed as reflex and instinct.\n\nMental development, for Spencer, recapitulates evolutionary history. Simple organisms have simple reflex arcs. Complex organisms have complex associative machinery. Human reason, the most complex product of the longest evolutionary history, is association become automatic through inheritance.\n\nThe scheme is loosely evidenced, and Darwinian selection will supersede Lamarckian inheritance as the mechanism. But Spencer's move — placing individual psychology within evolutionary history — anticipates both G. Stanley Hall's recapitulation theory and the evolutionary psychology movement a century later. The problem of explaining human nature in evolutionary terms is one Spencer was the first to pursue systematically."
+    },
+    {
+      "id": "bain-first-textbook",
+      "era": "19th Century",
+      "date": "1855",
+      "title": "Bain's Two Volumes — Psychology Gets Its First Real Textbook",
+      "subtitle": "Alexander Bain publishes The Senses and the Intellect, the first systematic psychology textbook in English and the first to open with a detailed account of nervous-system anatomy.",
+      "lede": "Alexander Bain, a Scotsman with close ties to John Stuart Mill, has published The Senses and the Intellect — the first systematic psychology textbook in English, and the first to open with a detailed account of nervous-system anatomy.",
+      "body": "The decision to begin with neurology was deliberate and novel. British psychology, running from Locke through Hartley and the Mills, had always grounded association in experience and logic, not tissue. Bain opens instead with the anatomy and physiology of the nervous system, moves through sensation and perception, and only then proceeds to the associationist analysis of higher mental functions.\n\nThe companion volume, The Emotions and the Will, follows in 1859. Together the two books cover a comprehensive, systematic psychology rooted simultaneously in physiology and philosophical tradition. They will remain standard student texts for nearly three decades.\n\nBain's specific contributions include a principle of trial and error: organisms spontaneously vary their behavior, and movements that prove successful tend to recur. The idea anticipates Thorndike's Law of Effect by forty years.\n\nWhen Wundt establishes experimental psychology at Leipzig in 1879, he will find a discipline with established vocabulary, canonical problems, and student texts. Bain helped create the discipline that Wundt will claim to make scientific."
+    },
+    {
+      "id": "bain-mind-journal",
+      "era": "19th Century",
+      "date": "1876",
+      "title": "Mind — The First Journal of Psychology and Philosophy Begins Publication",
+      "subtitle": "Alexander Bain founds Mind, the first English-language journal devoted to psychology and philosophy, giving the emerging discipline a publication venue and a professional identity.",
+      "lede": "Alexander Bain has founded Mind, the first English-language journal devoted to psychology and philosophy — providing the young discipline with a publication venue and a professional identity it has never before possessed.",
+      "body": "The announcement stated the purpose plainly: Mind would publish work bearing on the science of mind and the theory of knowledge, from whatever direction — philosophical, physiological, or observational. No such vehicle had existed in English. German psychology had its journals; British psychology had been publishing in philosophical transactions and literary quarterlies.\n\nThe first issue appears in January 1876, under the editorship of George Croom Robertson, with Bain funding the venture from his own resources. Contributors in the early volumes include Herbert Spencer, Francis Galton, and a young American visiting England named William James.\n\nThe journal's founding reflects a moment of self-consciousness: those studying the mind are beginning to see themselves as practitioners of a specific discipline, not merely philosophers or physicians interested in mental phenomena.\n\nWundt's laboratory opens three years later. The American Psychological Association will follow in 1892. Mind's founding belongs to the same wave of institutionalization — the moment when psychology stopped being a chapter in philosophy books and began acquiring the apparatus of an independent science: journals, laboratories, professional societies, and students trained to fill them."
+    }
+  ]
+}
