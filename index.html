@@ -135,7 +135,6 @@
     margin-bottom: 0.3rem;
     display: flex;
     align-items: center;
-    gap: 0.4rem;
   }
 
   .feed-star {
@@ -516,7 +515,7 @@ function renderMore() {
     div.innerHTML = `
       <div class="date-tag">
         <span>${a.cat.join(' · ')} · ${a.date}</span>
-        ${starSet.has(a.id) ? '<svg class="feed-star" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>' : ''}
+        ${starSet.has(a.id) ? '<span class="feed-star-wrap"> · <svg class="feed-star" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg></span>' : ''}
       </div>
       <h2>${a.title}</h2>
       <div class="lede">${a.lede}</div>
@@ -554,9 +553,9 @@ function closeFull() {
       const dateTag = card.querySelector('.date-tag');
       if (dateTag) {
         const isStarred = getStarSet().has(lastOpenedId);
-        const existing = dateTag.querySelector('svg.feed-star');
+        const existing = dateTag.querySelector('.feed-star-wrap');
         if (isStarred && !existing) {
-          dateTag.insertAdjacentHTML('beforeend', '<svg class="feed-star" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>');
+          dateTag.insertAdjacentHTML('beforeend', '<span class="feed-star-wrap"> · <svg class="feed-star" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg></span>');
         } else if (!isStarred && existing) {
           existing.remove();
         }
