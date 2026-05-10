@@ -159,24 +159,24 @@
     opacity: 0.45;
   }
 
-  .star-btn {
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 0.65rem;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    background: none;
-    border: 1px solid var(--rule);
-    color: var(--faded);
-    padding: 0.3rem 0.7rem;
-    border-radius: 2px;
-    cursor: pointer;
-    transition: all 0.15s;
-    margin-top: 1rem;
-    display: inline-block;
+  .article-top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
   }
 
-  .star-btn:hover { border-color: var(--accent); color: var(--accent); }
-  .star-btn.starred { background: var(--accent); color: var(--paper); border-color: var(--accent); }
+  .star-icon-btn {
+    font-size: 1.5rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--faded);
+    padding: 0.4rem 0.2rem;
+    line-height: 1;
+    transition: color 0.15s, transform 0.15s;
+  }
+  .star-icon-btn:hover { color: var(--accent); transform: scale(1.15); }
+  .star-icon-btn.starred { color: var(--accent); }
 
   /* Expanded article view */
   .article-full {
@@ -504,6 +504,8 @@ function closeFull() {
   const full = document.getElementById('article-full');
   full.classList.remove('visible');
   feed.classList.remove('hidden');
+  document.querySelector('.masthead').style.display = '';
+  document.getElementById('era-toolbar').style.display = '';
   if (lastOpenedId) {
     const card = feed.querySelector(`[data-article-id="${lastOpenedId}"]`);
     if (card) card.classList.add('read');
@@ -518,23 +520,26 @@ function openArticle(a) {
   const feed = document.getElementById('feed');
   const full = document.getElementById('article-full');
 
+  document.querySelector('.masthead').style.display = 'none';
+  document.getElementById('era-toolbar').style.display = 'none';
   feed.classList.add('hidden');
   const starred = getStarSet().has(a.id);
   full.innerHTML = `
-    <button class="back-btn" onclick="closeFull()">← Back to feed</button>
+    <div class="article-top-bar">
+      <button class="back-btn" onclick="closeFull()">← Back to feed</button>
+      <button class="star-icon-btn${starred ? ' starred' : ''}" id="star-btn" onclick="
+        const isNow = toggleStar('${a.id}');
+        this.textContent = isNow ? '★' : '☆';
+        this.classList.toggle('starred', isNow);
+      ">${starred ? '★' : '☆'}</button>
+    </div>
     <div class="category-label">${a.cat.join(' · ')}</div>
     <h2>${a.title}</h2>
-    <div class="meta">${a.date}</div>
+    <div class="meta">${a.date} · ${a.source}</div>
     <div class="body">
       ${a.body.split('\n\n').map(p => `<p>${p}</p>`).join('')}
       ${a.quote ? `<div class="sidebar-quote">${a.quote}</div>` : ''}
-      <div class="meta" style="margin-top:1rem;border-top:none;padding-top:0;">${a.source}</div>
     </div>
-    <button class="star-btn${starred ? ' starred' : ''}" id="star-btn" onclick="
-      const isNow = toggleStar('${a.id}');
-      this.textContent = isNow ? '★ Starred' : '☆ Star';
-      this.classList.toggle('starred', isNow);
-    ">${starred ? '★ Starred' : '☆ Star'}</button>
   `;
   full.classList.add('visible');
   window.scrollTo({ top: 0, behavior: 'smooth' });
